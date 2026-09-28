@@ -6,11 +6,11 @@
       "logo": "https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/kK2aX5UBrjBfS2_RBcKf/posters/ba5dd8dc-4f87-414a-b57f-c9ecdeda5253.png",
       "group": "Entertainment",
       "tabs": [
-        { "name": "HD stream",  "url": "" },
-        { "name": "HD BD IP",   "url": "" },
+        { "name": "HD stream",  "url": "https://b2.com/zeebangla.m3u8" },
+        { "name": "HD BD IP",   "url": "https://b2.com/zeebangla.m3u8" },
         { "name": "ZEE BANGLA", "url": "https://b2.com/zeebangla.m3u8" },
         { "name": "FHD",        "url": "https://b3.com/zeebangla.m3u8" },
-        { "name": "Backups",    "url": "" }
+        { "name": "Backups",    "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8" }
       ],
       "autoPlayBackup": true
     },
