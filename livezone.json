@@ -6,11 +6,10 @@
       "logo": "https://i.postimg.cc/pTgXzwY9/STAR-JALSHA-HD.png",
       "group": "indian Bangla",
       "tabs": [
-        { "name": "HD stream",  "url": "https://b2.com/zeebangla.m3u8" },
-        { "name": "HD BD IP",   "url": "http://premiumtvs.space/live/YqXTywueEV/damp2purchase/198.ts" },
-        { "name": "ZEE BANGLA", "url": "https://b5.com/zeebangla.m3u8" },
-        { "name": "FHD",        "url": "https://b3.com/zeebangla.m3u8" },
-        { "name": "Backups",    "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8" }
+        { "name": "HD stream", "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8" },
+        { "name": "HD BD IP",  "url": "https://test-streams.mux.dev/pts_shift/master.m3u8" },
+        { "name": "FHD",       "url": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8" },
+        { "name": "Backups",   "url": "https://bitdash-a.akamaihd.net/content/MI201109210084_1/m3u8s/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.m3u8" }
       ],
       "autoPlayBackup": true
     },
@@ -19,8 +18,9 @@
       "logo": "https://i.postimg.cc/LXq8q9f5/ZEE-BANGLA-HD-(1).png",
       "group": "indian Bangla",
       "tabs": [
-        { "name": "HD stream", "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/Zeebanglahd.m3u8" },
-        { "name": "FHD",       "url": "http://flowutc.com/live/MAGTF8AV71/bUiJLEJKG5/78981.ts" }
+        { "name": "HD stream", "url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8" },
+        { "name": "FHD",       "url": "https://moctobpltc-i.akamaihd.net/hls/live/571329/eight/playlist.m3u8" },
+        { "name": "Backups",   "url": "https://test-streams.mux.dev/tos_ismc/main.m3u8" }
       ],
       "autoPlayBackup": true
     },
@@ -29,8 +29,9 @@
       "logo": "https://i.postimg.cc/PxL5LXZp/COLORS-BANGLA-HD-(1).jpg",
       "group": "indian Bangla",
       "tabs": [
-        { "name": "HD stream", "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/Zeebanglahd.m3u8" },
-        { "name": "FHD",       "url": "http://flowutc.com/live/MAGTF8AV71/bUiJLEJKG5/78981.ts" }
+        { "name": "HD stream", "url": "https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8" },
+        { "name": "FHD",       "url": "https://test-streams.mux.dev/test_001/stream.m3u8" },
+        { "name": "Backups",   "url": "https://ireplay.tv/test/blender.m3u8" }
       ],
       "autoPlayBackup": true
     },
@@ -39,8 +40,9 @@
       "logo": "https://i.postimg.cc/QtBdB85F/SUN-BANGLA-HD.png",
       "group": "indian Bangla",
       "tabs": [
-        { "name": "HD stream", "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/Zeebanglahd.m3u8" },
-        { "name": "FHD",       "url": "http://flowutc.com/live/MAGTF8AV71/bUiJLEJKG5/78981.ts" }
+        { "name": "HD stream", "url": "https://bitmovin-a.akamaihd.net/content/playhouse-vr/m3u8s/105560.m3u8" },
+        { "name": "FHD",       "url": "https://bitmovin-a.akamaihd.net/content/art-of-motion_drm/m3u8s/11331.m3u8" },
+        { "name": "Backups",   "url": "https://bitmovin-a.akamaihd.net/content/MI201109210084_1/m3u8s/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.m3u8" }
       ],
       "autoPlayBackup": true
     },
@@ -49,8 +51,9 @@
       "logo": "https://i.postimg.cc/ZR959b36/SONY-AATH.jpg",
       "group": "indian Bangla",
       "tabs": [
-        { "name": "HD stream", "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/Zeebanglahd.m3u8" },
-        { "name": "FHD",       "url": "http://flowutc.com/live/MAGTF8AV71/bUiJLEJKG5/78981.ts" }
+        { "name": "HD stream", "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8" },
+        { "name": "HD BD IP",  "url": "https://test-streams.mux.dev/pts_shift/master.m3u8" },
+        { "name": "FHD",       "url": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8" }
       ],
       "autoPlayBackup": true
     },
@@ -59,8 +62,9 @@
       "logo": "https://i.postimg.cc/V6SkSfMM/ENTERR-10-BANGLA.png",
       "group": "indian Bangla",
       "tabs": [
-        { "name": "HD stream", "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/Zeebanglahd.m3u8" },
-        { "name": "FHD",       "url": "http://flowutc.com/live/MAGTF8AV71/bUiJLEJKG5/78981.ts" }
+        { "name": "HD stream", "url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8" },
+        { "name": "FHD",       "url": "https://moctobpltc-i.akamaihd.net/hls/live/571329/eight/playlist.m3u8" },
+        { "name": "Backups",   "url": "https://test-streams.mux.dev/tos_ismc/main.m3u8" }
       ],
       "autoPlayBackup": true
     },
@@ -69,8 +73,9 @@
       "logo": "https://i.postimg.cc/G2ZhGWJ9/JALSHA-MOVIES-HD.png",
       "group": "indian Bangla",
       "tabs": [
-        { "name": "HD stream", "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/Zeebanglahd.m3u8" },
-        { "name": "FHD",       "url": "http://flowutc.com/live/MAGTF8AV71/bUiJLEJKG5/78981.ts" }
+        { "name": "HD stream", "url": "https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8" },
+        { "name": "FHD",       "url": "https://test-streams.mux.dev/test_001/stream.m3u8" },
+        { "name": "Backups",   "url": "https://ireplay.tv/test/blender.m3u8" }
       ],
       "autoPlayBackup": true
     },
@@ -79,8 +84,9 @@
       "logo": "https://i.postimg.cc/MThKVCbH/COLORS-BANGLA-CINEMA.png",
       "group": "indian Bangla",
       "tabs": [
-        { "name": "HD stream", "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/Zeebanglahd.m3u8" },
-        { "name": "FHD",       "url": "http://flowutc.com/live/MAGTF8AV71/bUiJLEJKG5/78981.ts" }
+        { "name": "HD stream", "url": "https://bitmovin-a.akamaihd.net/content/playhouse-vr/m3u8s/105560.m3u8" },
+        { "name": "FHD",       "url": "https://bitmovin-a.akamaihd.net/content/art-of-motion_drm/m3u8s/11331.m3u8" },
+        { "name": "Backups",   "url": "https://bitmovin-a.akamaihd.net/content/MI201109210084_1/m3u8s/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.m3u8" }
       ],
       "autoPlayBackup": true
     }
