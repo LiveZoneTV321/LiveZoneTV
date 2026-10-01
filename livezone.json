@@ -27,7 +27,57 @@
     {
       "name": "Colors Bangla",
       "logo": "https://i.postimg.cc/PxL5LXZp/COLORS-BANGLA-HD-(1).jpg",
-      "group": "BD",
+      "group": "indian Bangla",
+      "tabs": [
+        { "name": "HD stream", "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/Zeebanglahd.m3u8" },
+        { "name": "FHD",       "url": "http://flowutc.com/live/MAGTF8AV71/bUiJLEJKG5/78981.ts" }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "Sun Bangla",
+      "logo": "https://i.postimg.cc/QtBdB85F/SUN-BANGLA-HD.png",
+      "group": "indian Bangla",
+      "tabs": [
+        { "name": "HD stream", "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/Zeebanglahd.m3u8" },
+        { "name": "FHD",       "url": "http://flowutc.com/live/MAGTF8AV71/bUiJLEJKG5/78981.ts" }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "Sony Aath",
+      "logo": "https://i.postimg.cc/ZR959b36/SONY-AATH.jpg",
+      "group": "indian Bangla",
+      "tabs": [
+        { "name": "HD stream", "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/Zeebanglahd.m3u8" },
+        { "name": "FHD",       "url": "http://flowutc.com/live/MAGTF8AV71/bUiJLEJKG5/78981.ts" }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "Enterr10",
+      "logo": "https://i.postimg.cc/V6SkSfMM/ENTERR-10-BANGLA.png",
+      "group": "indian Bangla",
+      "tabs": [
+        { "name": "HD stream", "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/Zeebanglahd.m3u8" },
+        { "name": "FHD",       "url": "http://flowutc.com/live/MAGTF8AV71/bUiJLEJKG5/78981.ts" }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "Jalsa Movies HD",
+      "logo": "https://i.postimg.cc/G2ZhGWJ9/JALSHA-MOVIES-HD.png",
+      "group": "indian Bangla",
+      "tabs": [
+        { "name": "HD stream", "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/Zeebanglahd.m3u8" },
+        { "name": "FHD",       "url": "http://flowutc.com/live/MAGTF8AV71/bUiJLEJKG5/78981.ts" }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "Colors Bangla Cinema"
+      "logo": "https://i.postimg.cc/MThKVCbH/COLORS-BANGLA-CINEMA.png",
+      "group": "indian Bangla",
       "tabs": [
         { "name": "HD stream", "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/Zeebanglahd.m3u8" },
         { "name": "FHD",       "url": "http://flowutc.com/live/MAGTF8AV71/bUiJLEJKG5/78981.ts" }
