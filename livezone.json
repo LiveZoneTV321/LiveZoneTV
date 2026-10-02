@@ -88,6 +88,96 @@
         { "name": "FHD",       "url": "http://198.195.239.50:8095/ZEE.BANGLA.CINEMA/index.m3u8" }
       ],
       "autoPlayBackup": true
+    },
+    {
+      "name": "Sonic",
+      "logo": "https://i.postimg.cc/Pxmmthdh/SONIC.png",
+      "group": "Kids",
+      "tabs": [
+        { "name": "HD stream", "url": "http://198.195.239.50:8095/SONIC/tracks-v1a1/mono.m3u8" }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "Sony Yay",
+      "logo": "https://i.postimg.cc/KzXPS4hR/SONY-YAY.png",
+      "group": "Kids",
+      "tabs": [
+        { "name": "HD stream", "url": "http://198.195.239.50:8095/sonyYay/index.m3u8" }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "Nick",
+      "logo": "https://i.postimg.cc/Jnbb1mRR/NICK.png",
+      "group": "Kids",
+      "tabs": [
+        { "name": "HD stream", "url": "http://198.195.239.50:8095/NICK/index.m3u8" }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "Nick Jr",
+      "logo": "https://i.postimg.cc/HxQQpHTd/NICK-JR.png",
+      "group": "Kids",
+      "tabs": [
+        { "name": "HD stream", "url": "http://198.195.239.50:8095/nickJr/index.m3u8" }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "Duranta TV",
+      "logo": "https://i.postimg.cc/qR88k0pB/DURANTA-TV.png",
+      "group": "Kids",
+      "tabs": [
+        { "name": "HD stream", "url": "http://198.195.239.50:8095/duranta/index.m3u8" }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "Pogo",
+      "logo": "https://i.postimg.cc/d188qvJV/POGO-(1).png",
+      "group": "Kids",
+      "tabs": [
+        { "name": "HD stream", "url": "http://198.195.239.50:8095/pogo/index.m3u8" }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "Super Hungama",
+      "logo": "https://i.postimg.cc/DZqq2F7h/SUPER-HUNGAMA.png",
+      "group": "Kids",
+      "tabs": [
+        { "name": "HD stream", "url": "http://198.195.239.50:8095/SUPER.HUNGAMA/index.m3u8" }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "Hungama",
+      "logo": "https://i.postimg.cc/qRfsVgHg/HUNGAMA.png",
+      "group": "Kids",
+      "tabs": [
+        { "name": "HD stream", "url": "http://198.195.239.50:8095/HUNGAMA/index.m3u8" }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "Cartoon Network",
+      "logo": "https://i.postimg.cc/1tpp9Py5/CARTOON-NETWORK.png",
+      "group": "Kids",
+      "tabs": [
+        { "name": "HD stream", "url": "http://198.195.239.50:8095/cartoonNetwork/index.m3u8" }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "ETV Bal Bharat",
+      "logo": "https://i.postimg.cc/LXdtKhF5/BAL-BHARAT.png",
+      "group": "Kids",
+      "tabs": [
+        { "name": "HD stream", "url": "http://198.195.239.50:8095/ETV.BAL.BHARAT/index.m3u8" }
+      ],
+      "autoPlayBackup": true
     }
   ]
 }
