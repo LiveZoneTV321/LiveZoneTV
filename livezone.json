@@ -6,8 +6,8 @@
       "logo": "https://i.postimg.cc/pTgXzwY9/STAR-JALSHA-HD.png",
       "group": "indian Bangla",
       "tabs": [
-        { "name": "HD stream", "url": "http://198.195.239.50:8095/starJalsha/index.m3u8" },
-        { "name": "HD BD IP",  "url": "http://tv.dugdugilive.com:8080/0ne$ky23/starJalsa/tracks-v1a1/mono.m3u8" }
+        { "name": "Main Stream", "url": "http://198.195.239.50:8095/starJalsha/index.m3u8" },
+        { "name": "Stream 1",  "url": "http://tv.dugdugilive.com:8080/0ne$ky23/starJalsa/tracks-v1a1/mono.m3u8" }
       ],
       "autoPlayBackup": true
     },
@@ -16,8 +16,8 @@
       "logo": "https://i.postimg.cc/LXq8q9f5/ZEE-BANGLA-HD-(1).png",
       "group": "indian Bangla",
       "tabs": [
-        { "name": "HD stream", "url": "http://198.195.239.50:8095/zeeBangla/index.m3u8" },
-        { "name": "FHD",       "url": "http://tv.dugdugilive.com:8080/0ne$ky23/ZeeBangla/index.m3u8" }
+        { "name": "Main Stream", "url": "http://198.195.239.50:8095/zeeBangla/index.m3u8" },
+        { "name": "Stream 1",       "url": "http://tv.dugdugilive.com:8080/0ne$ky23/ZeeBangla/index.m3u8" }
       ],
       "autoPlayBackup": true
     },
@@ -26,8 +26,8 @@
       "logo": "https://i.postimg.cc/PxL5LXZp/COLORS-BANGLA-HD-(1).jpg",
       "group": "indian Bangla",
       "tabs": [
-        { "name": "HD stream", "url": "http://198.195.239.50:8095/colorsBangla/index.m3u8" },
-        { "name": "FHD",       "url": "http://tv.dugdugilive.com:8080/0ne$ky23/colors-bangla/index.m3u8" }
+        { "name": "Main Stream", "url": "http://198.195.239.50:8095/colorsBangla/index.m3u8" },
+        { "name": "Stream 1",       "url": "http://tv.dugdugilive.com:8080/0ne$ky23/colors-bangla/index.m3u8" }
       ],
       "autoPlayBackup": true
     },
@@ -36,7 +36,7 @@
       "logo": "https://i.postimg.cc/QtBdB85F/SUN-BANGLA-HD.png",
       "group": "indian Bangla",
       "tabs": [
-        { "name": "HD stream", "url": "http://198.195.239.50:8095/SUN.BANGLA.HD/index.m3u8" }
+        { "name": "Main Stream", "url": "http://198.195.239.50:8095/SUN.BANGLA.HD/index.m3u8" }
       ],
       "autoPlayBackup": true
     },
@@ -45,8 +45,8 @@
       "logo": "https://i.postimg.cc/ZR959b36/SONY-AATH.jpg",
       "group": "indian Bangla",
       "tabs": [
-        { "name": "HD stream", "url": "http://198.195.239.50:8095/sonyAath/index.m3u8" },
-        { "name": "HD BD IP",  "url": "http://198.195.239.50:8095/SONY.AAT/tracks-v1a1/mono.m3u8" }
+        { "name": "Main Stream", "url": "http://198.195.239.50:8095/sonyAath/index.m3u8" },
+        { "name": "Stream 1",  "url": "http://198.195.239.50:8095/SONY.AAT/tracks-v1a1/mono.m3u8" }
       ],
       "autoPlayBackup": true
     },
@@ -55,7 +55,7 @@
       "logo": "https://i.postimg.cc/V6SkSfMM/ENTERR-10-BANGLA.png",
       "group": "indian Bangla",
       "tabs": [
-        { "name": "HD stream", "url": "http://198.195.239.50:8095/enter10Bangla/index.m3u8" }
+        { "name": "Main Stream", "url": "http://198.195.239.50:8095/enter10Bangla/index.m3u8" }
       ],
       "autoPlayBackup": true
     },
@@ -64,8 +64,8 @@
       "logo": "https://i.postimg.cc/G2ZhGWJ9/JALSHA-MOVIES-HD.png",
       "group": "indian Bangla",
       "tabs": [
-        { "name": "HD stream", "url": "http://198.195.239.50:8095/JALSHA.MOVIES.HD/index.m3u8" },
-        { "name": "FHD",       "url": "http://tv.dugdugilive.com:8080/0ne$ky23/jalshamovies/tracks-v1a1/mono.m3u8" }
+        { "name": "Main Stream", "url": "http://198.195.239.50:8095/JALSHA.MOVIES.HD/index.m3u8" },
+        { "name": "Stream 1",       "url": "http://tv.dugdugilive.com:8080/0ne$ky23/jalshamovies/tracks-v1a1/mono.m3u8" }
       ],
       "autoPlayBackup": true
     },
@@ -74,8 +74,8 @@
       "logo": "https://i.postimg.cc/MThKVCbH/COLORS-BANGLA-CINEMA.png",
       "group": "indian Bangla",
       "tabs": [
-        { "name": "HD stream", "url": "http://198.195.239.50:8095/colorsBanglaChinema/index.m3u8" },
-        { "name": "FHD",       "url": "https://bitmovin-a.akamaihd.net/content/art-of-motion_drm/m3u8s/11331.m3u8" }
+        { "name": "Main Stream", "url": "http://198.195.239.50:8095/colorsBanglaChinema/index.m3u8" },
+        { "name": "Stream 1",       "url": "https://bitmovin-a.akamaihd.net/content/art-of-motion_drm/m3u8s/11331.m3u8" }
       ],
       "autoPlayBackup": true
     },
@@ -84,8 +84,8 @@
       "logo": "https://i.postimg.cc/sXBgBjSB/ZEE-BANGLA-CINEMA.jpg",
       "group": "indian Bangla",
       "tabs": [
-        { "name": "HD stream", "url": "http://tv.dugdugilive.com:8080/0ne$ky23/ZeeBnCinema/index.m3u8" },
-        { "name": "FHD",       "url": "http://198.195.239.50:8095/ZEE.BANGLA.CINEMA/index.m3u8" }
+        { "name": "Main Stream", "url": "http://tv.dugdugilive.com:8080/0ne$ky23/ZeeBnCinema/index.m3u8" },
+        { "name": "Stream 1",       "url": "http://198.195.239.50:8095/ZEE.BANGLA.CINEMA/index.m3u8" }
       ],
       "autoPlayBackup": true
     },
@@ -94,7 +94,7 @@
       "logo": "https://i.postimg.cc/Pxmmthdh/SONIC.png",
       "group": "Kids",
       "tabs": [
-        { "name": "HD stream", "url": "http://198.195.239.50:8095/SONIC/tracks-v1a1/mono.m3u8" }
+        { "name": "Main Stream", "url": "http://198.195.239.50:8095/SONIC/tracks-v1a1/mono.m3u8" }
       ],
       "autoPlayBackup": true
     },
@@ -103,7 +103,7 @@
       "logo": "https://i.postimg.cc/KzXPS4hR/SONY-YAY.png",
       "group": "Kids",
       "tabs": [
-        { "name": "HD stream", "url": "http://198.195.239.50:8095/sonyYay/index.m3u8" }
+        { "name": "Main Stream", "url": "http://198.195.239.50:8095/sonyYay/index.m3u8" }
       ],
       "autoPlayBackup": true
     },
@@ -112,7 +112,7 @@
       "logo": "https://i.postimg.cc/Jnbb1mRR/NICK.png",
       "group": "Kids",
       "tabs": [
-        { "name": "HD stream", "url": "http://198.195.239.50:8095/NICK/index.m3u8" }
+        { "name": "Main Stream", "url": "http://198.195.239.50:8095/NICK/index.m3u8" }
       ],
       "autoPlayBackup": true
     },
@@ -121,7 +121,7 @@
       "logo": "https://i.postimg.cc/HxQQpHTd/NICK-JR.png",
       "group": "Kids",
       "tabs": [
-        { "name": "HD stream", "url": "http://198.195.239.50:8095/nickJr/index.m3u8" }
+        { "name": "Main Stream", "url": "http://198.195.239.50:8095/nickJr/index.m3u8" }
       ],
       "autoPlayBackup": true
     },
@@ -130,7 +130,7 @@
       "logo": "https://i.postimg.cc/qR88k0pB/DURANTA-TV.png",
       "group": "Kids",
       "tabs": [
-        { "name": "HD stream", "url": "http://198.195.239.50:8095/duranta/index.m3u8" }
+        { "name": "Main Stream", "url": "http://198.195.239.50:8095/duranta/index.m3u8" }
       ],
       "autoPlayBackup": true
     },
@@ -139,7 +139,7 @@
       "logo": "https://i.postimg.cc/d188qvJV/POGO-(1).png",
       "group": "Kids",
       "tabs": [
-        { "name": "HD stream", "url": "http://198.195.239.50:8095/pogo/index.m3u8" }
+        { "name": "Main Stream", "url": "http://198.195.239.50:8095/pogo/index.m3u8" }
       ],
       "autoPlayBackup": true
     },
@@ -148,7 +148,7 @@
       "logo": "https://i.postimg.cc/DZqq2F7h/SUPER-HUNGAMA.png",
       "group": "Kids",
       "tabs": [
-        { "name": "HD stream", "url": "http://198.195.239.50:8095/SUPER.HUNGAMA/index.m3u8" }
+        { "name": "Main Stream", "url": "http://198.195.239.50:8095/SUPER.HUNGAMA/index.m3u8" }
       ],
       "autoPlayBackup": true
     },
@@ -157,7 +157,7 @@
       "logo": "https://i.postimg.cc/qRfsVgHg/HUNGAMA.png",
       "group": "Kids",
       "tabs": [
-        { "name": "HD stream", "url": "http://198.195.239.50:8095/HUNGAMA/index.m3u8" }
+        { "name": "Main Stream", "url": "http://198.195.239.50:8095/HUNGAMA/index.m3u8" }
       ],
       "autoPlayBackup": true
     },
@@ -166,7 +166,7 @@
       "logo": "https://i.postimg.cc/1tpp9Py5/CARTOON-NETWORK.png",
       "group": "Kids",
       "tabs": [
-        { "name": "HD stream", "url": "http://198.195.239.50:8095/cartoonNetwork/index.m3u8" }
+        { "name": "Main Stream", "url": "http://198.195.239.50:8095/cartoonNetwork/index.m3u8" }
       ],
       "autoPlayBackup": true
     },
@@ -175,7 +175,61 @@
       "logo": "https://i.postimg.cc/LXdtKhF5/BAL-BHARAT.png",
       "group": "Kids",
       "tabs": [
-        { "name": "HD stream", "url": "http://198.195.239.50:8095/ETV.BAL.BHARAT/index.m3u8" }
+        { "name": "Main Stream", "url": "http://198.195.239.50:8095/ETV.BAL.BHARAT/index.m3u8" }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "Discovery Bangla",
+      "logo": "https://i.postimg.cc/XN8BHttW/DISCOVERY-HD.png",
+      "group": "Documentary",
+      "tabs": [
+        { "name": "Main Stream", "url": "http://198.195.239.50:8095/discovery/tracks-v1a1/mono.m3u8" }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "WILD HD",
+      "logo": "https://i.postimg.cc/FFZkWwwQ/NATGEO-WILD-HD.png",
+      "group": "Documentary",
+      "tabs": [
+        { "name": "Main Stream", "url": "http://198.195.239.50:8095/NATGEO.WILD.HD/tracks-v1a1/mono.m3u8" }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "ANIMAL PLANET HD",
+      "logo": "https://i.postimg.cc/QNbK4vvh/ANIMAL-PLANET-HD.png",
+      "group": "Documentary",
+      "tabs": [
+        { "name": "Main Stream", "url": "http://198.195.239.50:8095/animalPlanet/tracks-v1a1/mono.m3u8" }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "NATGEO HD",
+      "logo": "https://i.postimg.cc/wM0t1sDF/NATGEO-HD.png",
+      "group": "Documentary",
+      "tabs": [
+        { "name": "Main Stream", "url": "http://198.195.239.50:8095/nationalGeographic/tracks-v1a1/mono.m3u8" }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "LOVE NATURE",
+      "logo": "https://i.postimg.cc/445HLjjC/LOVE-NATURE.png",
+      "group": "Documentary",
+      "tabs": [
+        { "name": "Main Stream", "url": "http://198.195.239.50:8095/LOVE.NATURE/tracks-v1a1/mono.m3u8" }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "TRAVEL XP",
+      "logo": "https://i.postimg.cc/yxvJDS0v/TRAVEL-XP.png",
+      "group": "Documentary",
+      "tabs": [
+        { "name": "Main Stream", "url": "http://198.195.239.50:8095/travelXp/index.m3u8" }
       ],
       "autoPlayBackup": true
     }
