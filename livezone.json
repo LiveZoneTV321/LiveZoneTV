@@ -7,7 +7,9 @@
       "group": "indian Bangla",
       "tabs": [
         { "name": "Main Stream", "url": "http://198.195.239.50:8095/starJalsha/index.m3u8" },
-        { "name": "Stream 1",  "url": "http://tv.dugdugilive.com:8080/0ne$ky23/starJalsa/tracks-v1a1/mono.m3u8" }
+        { "name": "Stream 1",  "url": "http://tv.dugdugilive.com:8080/0ne$ky23/starJalsa/tracks-v1a1/mono.m3u8" },
+         { "name": "Stream 2",  "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8" },
+        
       ],
       "autoPlayBackup": true
     },
