@@ -244,6 +244,125 @@
         { "name": "Main Stream", "url": "http://198.195.239.50:8095/travelXp/index.m3u8" }
       ],
       "autoPlayBackup": true
-    }
+    },
+    {
+      "name": "Sony Max HD",
+      "logo": "https://i.postimg.cc/KvqZgwkc/SONY-MAX-HD.png",
+      "group": "Movies",
+      "tabs": [
+        { "name": "Main Stream", "url": "http://198.195.239.50:8095/SONY.MAX.HD/tracks-v1a1/mono.m3u8" },
+        { "name": "Stream 1", "url": "https://media.hmair.xyz/api/play/Sony%20MAX%20HD.m3u8" }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "Sony Max",
+      "logo": "https://assets-prod.services.toffeelive.com/Ay52-JQBv9knK3AHFDWt/posters/00afb30b-3c19-4c4c-abd8-891db94e4767.webp",
+      "group": "Movies",
+      "tabs": [
+        { "name": "Main Stream", "url": "https://media.hmair.xyz/api/play/Sony%20MAX.m3u8" }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "Sony Max 2",
+      "logo": "https://i.imgur.com/gqUYk6C.png",
+      "group": "Movies",
+      "tabs": [
+        { "name": "Main Stream", "url": "http://107.167.16.138/sonymax2/index.m3u8?token=test" }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "Sony Pix HD",
+      "logo": "https://i.postimg.cc/gkkzjmJG/SONY-PIX-HD.png",
+      "group": "Movies",
+      "tabs": [
+        { "name": "Main Stream", "url": "http://198.195.239.50:8095/nationalGeographic/tracks-v1a1/mono.m3u8" },
+        { "name": "Stream 1", "url": "https://media.hmair.xyz/api/play/Sony%20PIX%20HD.m3u8" }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "Zee Cinema HD",
+      "logo": "https://i.postimg.cc/rFFVsMpb/ZEE-CINEMA-HD.png",
+      "group": "Movies",
+      "tabs": [
+        { "name": "Main Stream", "url": "http://198.195.239.50:8095/SONY.PIX.HD/tracks-v1/mono.m3u8" }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "star Gold HD",
+      "logo": "https://i.postimg.cc/Dyyv0nZF/STAR-GOLD-HD.png",
+      "group": "Movies",
+      "tabs": [
+        { "name": "Main Stream", "url": "http://198.195.239.50:8095/STAR.GOLD.HD/tracks-v1a1/mono.m3u8" }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "Star Movies HD",
+      "logo": "https://i.postimg.cc/CLLh5SKP/STAR-MOVIES-HD.png",
+      "group": "Movies",
+      "tabs": [
+        { "name": "Main Stream", "url": "http://198.195.239.50:8095/STAR.MOVIES.HD/tracks-v1a1/mono.m3u8" }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "Colors Cineplex HD",
+      "logo": "https://i.postimg.cc/ZqcZ4QSv/COLORS-CINEPLEX-HD.png",
+      "group": "Movies",
+      "tabs": [
+       { "name": "Main Stream", "url": "http://198.195.239.50:8095/COLORS.CINEPLEX.HD/tracks-v1a1/mono.m3u8" }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "Colors Cineplex Bollywood",
+      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCineplexBollywood.png",
+      "group": "Movies",
+      "tabs": [
+       { "name": "Main Stream", "url": "http://live.balajibroadband.com:3500/live/1763.m3u8" }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "Colors Cineplex Superhit",
+      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCineplexSuperhit.png",
+      "group": "Movies",
+      "tabs": [
+       { "name": "Main Stream", "url": "http://live.balajibroadband.com:3500/live/1450.m3u8" }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "Sheemaroo Bollywood",
+      "logo": "https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png",
+      "group": "Movies",
+      "tabs": [
+        { "name": "Main Stream", "url": "https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8" }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "B4U Kadak",
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/a/ab/B4U_Kadak.jpeg",
+      "group": "Movies",
+      "tabs": [
+        { "name": "Main Stream", "url": "https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/1080p/index.m3u8" }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "Gold Mines",
+      "logo": "https://otapp.store/uploads/tv_image/sm/goldmines-movies.png",
+      "group": "Movies",
+      "tabs": [
+        { "name": "Main Stream", "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/tracks-v1a1/mono.m3u8" }
+      ],
+      "autoPlayBackup": true
+    },
   ]
 }
