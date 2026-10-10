@@ -296,6 +296,26 @@
       "autoPlayBackup": true
     },
     {
+  "name": "Zee Bollywood",
+  "logo": "https://i.postimg.cc/52SzwQF1/20251222_220548.png",
+  "group": "Movies",
+  "tabs": [
+    { "name": "Main Stream", "url": "https://drk6xq0vhn.gpcdn.net/live/zee_bollywood_abr/index.m3u8" }
+  ],
+  "autoPlayBackup": true
+},
+{
+  "name": "& Picture HD",
+  "logo": "https://i.postimg.cc/XJ1SbVzN/20240823_022738.png",
+  "group": "Movies",
+  "drmType": "clearkey",
+  "drmLicenseKey": "de8045e9f0fb4d03845dcc4a8bd7712a:6807bd09bda34ada83152908192af6d6",
+  "tabs": [
+    { "name": "Main Stream", "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd/default/index.mpd" }
+  ],
+  "autoPlayBackup": true
+},
+    {
       "name": "star Gold HD",
       "logo": "https://i.postimg.cc/Dyyv0nZF/STAR-GOLD-HD.png",
       "group": "Movies",
