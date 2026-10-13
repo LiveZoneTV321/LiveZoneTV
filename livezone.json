@@ -38,8 +38,10 @@
       "name": "Sun Bangla",
       "logo": "https://i.postimg.cc/QtBdB85F/SUN-BANGLA-HD.png",
       "group": "indian Bangla",
+      "drmType": "clearkey",
+      "drmLicenseKey": "01f7b9f7bf7e425f86d6dfd478390e3f:5fde68100a7856d055038236ffc7c84a",
       "tabs": [
-        { "name": "Main Stream", "url": "http://198.195.239.50:8095/SUN.BANGLA.HD/index.m3u8" }
+        { "name": "Main Stream", "url": "https://livestream7.sunnxt.com/bf76ee92dd01473bb2eb57d137294484/SunBanglaB_IN_index.mpd" }
       ],
       "autoPlayBackup": true
     },
