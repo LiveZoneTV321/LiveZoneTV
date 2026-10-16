@@ -6,7 +6,7 @@
       "logo": "https://i.postimg.cc/pTgXzwY9/STAR-JALSHA-HD.png",
       "group": "indian Bangla",
       "tabs": [
-        { "name": "Main Stream", "url": "http://198.195.239.50:8095/starJalsha/index.m3u8" },
+        { "name": "Main Stream", "url": "http://103.151.60.162:2122/play/a00w/index.m3u8" },
         { "name": "Stream 1",  "url": "http://tv.dugdugilive.com:8080/0ne$ky23/starJalsa/tracks-v1a1/mono.m3u8" },
          { "name": "Stream 2",  "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8" }
       ],
@@ -17,10 +17,11 @@
       "logo": "https://i.postimg.cc/LXq8q9f5/ZEE-BANGLA-HD-(1).png",
       "group": "indian Bangla",
       "tabs": [
-        { "name": "Main Stream", "url": "http://198.195.239.50:8095/zeeBangla/index.m3u8" },
+        { "name": "Main Stream", "url": "https://tvsen6.aynaott.com/ZeeBangla/index.m3u8" },
         { "name": "Stream 1",       "url": "http://tv.dugdugilive.com:8080/0ne$ky23/ZeeBangla/index.m3u8" },
         { "name": "Stream 2",       "url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBanglaHD.m3u8" },
-        { "name": "Stream 3",       "url": "https://drk6xq0vhn.gpcdn.net/live/zee_bangla_720/index.m3u8" }
+        { "name": "Stream 3",       "url": "https://drk6xq0vhn.gpcdn.net/live/zee_bangla_720/index.m3u8" },
+        { "name": "Stream 4",       "url": "http://103.151.60.162:2122/play/a011/index.m3u8" }
       ],
       "autoPlayBackup": true
     },
@@ -50,7 +51,7 @@
       "logo": "https://i.postimg.cc/ZR959b36/SONY-AATH.jpg",
       "group": "indian Bangla",
       "tabs": [
-        { "name": "Main Stream", "url": "http://198.195.239.50:8095/sonyAath/index.m3u8" },
+        { "name": "Main Stream", "url": "https://drk6xq0vhn.gpcdn.net/live/sony_aath_abr/index.m3u8" },
         { "name": "Stream 1",  "url": "https://stream.ottplus.live/live/sony_aath_abr/index.m3u8" }
       ],
       "autoPlayBackup": true
@@ -72,7 +73,7 @@
       "logo": "https://i.postimg.cc/G2ZhGWJ9/JALSHA-MOVIES-HD.png",
       "group": "indian Bangla",
       "tabs": [
-        { "name": "Main Stream", "url": "http://198.195.239.50:8095/JALSHA.MOVIES.HD/index.m3u8" },
+        { "name": "Main Stream", "url": "https://box.bbaria.net:8083/Jalsha_Movie/tracks-v1a1/mono.m3u8" },
         { "name": "Stream 1",       "url": "http://tv.dugdugilive.com:8080/0ne$ky23/jalshamovies/tracks-v1a1/mono.m3u8" }
       ],
       "autoPlayBackup": true
