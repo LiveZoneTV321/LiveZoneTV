@@ -74,7 +74,8 @@
       "group": "indian Bangla",
       "tabs": [
         { "name": "Main Stream", "url": "https://box.bbaria.net:8083/Jalsha_Movie/tracks-v1a1/mono.m3u8" },
-        { "name": "Stream 1",       "url": "http://tv.dugdugilive.com:8080/0ne$ky23/jalshamovies/tracks-v1a1/mono.m3u8" }
+        { "name": "Stream 1",       "url": "http://tv.dugdugilive.com:8080/0ne$ky23/jalshamovies/tracks-v1a1/mono.m3u8" },
+{ "name": "Stream 2",       "url": "https://sm-monirul.xyz/@monirul_Islam_SM/stream.php?id=jalsha_movies_hd&e=.m3u8" }
       ],
       "autoPlayBackup": true
     },
@@ -144,7 +145,7 @@
       "logo": "https://i.postimg.cc/qR88k0pB/DURANTA-TV.png",
       "group": "Kids",
       "tabs": [
-        { "name": "Main Stream", "url": "http://198.195.239.50:8095/duranta/index.m3u8" }
+        { "name": "Main Stream", "url": "https://sm-monirul.xyz/@monirul_Islam_SM/stream.php?id=duranta_tv&e=.m3u8" }
       ],
       "autoPlayBackup": true
     },
@@ -198,7 +199,7 @@
       "logo": "https://i.postimg.cc/XN8BHttW/DISCOVERY-HD.png",
       "group": "Documentary",
       "tabs": [
-        { "name": "Main Stream", "url": "http://198.195.239.50:8095/discovery/tracks-v1a1/mono.m3u8" },
+        { "name": "Main Stream", "url": "https://sm-monirul.xyz/@monirul_Islam_SM/stream.php?id=discovery_hd&e=.m3u8" },
         { "name": "Stream 1",       "url": "http://sm-monirul.xyz/@monirul_Islam_SM/exp.php?id=discovery_bangla&sm=.m3u8" }
       ],
       "autoPlayBackup": true
