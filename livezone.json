@@ -288,7 +288,7 @@
       "logo": "https://i.postimg.cc/gkkzjmJG/SONY-PIX-HD.png",
       "group": "Movies",
       "tabs": [
-        { "name": "Main Stream", "url": "http://198.195.239.50:8095/SONY.PIX.HD/index.m3u8" },
+        { "name": "Main Stream", "url": "http://steveit4.net:80/live/3D458C361A77/80DD123017CE/72148.ts" },
         { "name": "Stream 1", "url": "https://media.hmair.xyz/api/play/Sony%20PIX%20HD.m3u8" }
       ],
       "autoPlayBackup": true
