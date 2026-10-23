@@ -118,7 +118,7 @@
       "logo": "https://i.postimg.cc/KzXPS4hR/SONY-YAY.png",
       "group": "Kids",
       "tabs": [
-        { "name": "Main Stream", "url": "http://198.195.239.50:8095/sonyYay/index.m3u8" }
+        { "name": "Main Stream", "url": "https://stream.ottplus.live/live/sony_yay_abr/live/sony_yay_720/chunks.m3u8" }
       ],
       "autoPlayBackup": true
     },
@@ -136,7 +136,7 @@
       "logo": "https://i.postimg.cc/HxQQpHTd/NICK-JR.png",
       "group": "Kids",
       "tabs": [
-        { "name": "Main Stream", "url": "http://198.195.239.50:8095/nickJr/index.m3u8" }
+        { "name": "Main Stream", "url": "http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/98880.ts" }
       ],
       "autoPlayBackup": true
     },
@@ -155,7 +155,7 @@
       "logo": "https://i.postimg.cc/d188qvJV/POGO-(1).png",
       "group": "Kids",
       "tabs": [
-        { "name": "Main Stream", "url": "http://198.195.239.50:8095/pogo/index.m3u8" }
+        { "name": "Main Stream", "url": "https://stream.ottplus.live/live/pogo_sd_abr/index.m3u8" }
       ],
       "autoPlayBackup": true
     },
@@ -164,7 +164,7 @@
       "logo": "https://i.postimg.cc/DZqq2F7h/SUPER-HUNGAMA.png",
       "group": "Kids",
       "tabs": [
-        { "name": "Main Stream", "url": "http://198.195.239.50:8095/SUPER.HUNGAMA/index.m3u8" }
+        { "name": "Main Stream", "url": "http://iptv.prosto.tv:7000/ch72/video.m3u8" }
       ],
       "autoPlayBackup": true
     },
@@ -219,7 +219,8 @@
       "logo": "https://i.postimg.cc/QNbK4vvh/ANIMAL-PLANET-HD.png",
       "group": "Documentary",
       "tabs": [
-        { "name": "Main Stream", "url": "http://198.195.239.50:8095/animalPlanet/tracks-v1a1/mono.m3u8" }
+        { "name": "Main Stream", "url": "http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/98873.ts" },
+         { "name": "Stream 1",   "url": "http://rgkkw.live:8080/live/4dfoydR2gZ/clever3still/5249.ts" }
       ],
       "autoPlayBackup": true
     },
@@ -246,7 +247,8 @@
       "logo": "https://i.postimg.cc/yxvJDS0v/TRAVEL-XP.png",
       "group": "Documentary",
       "tabs": [
-        { "name": "Main Stream", "url": "http://198.195.239.50:8095/travelXp/index.m3u8" }
+        { "name": "Main Stream", "url": "http://rgkkw.live:8080/live/4dfoydR2gZ/clever3still/181.ts" },
+         { "name": "Stream 1",   "url": "http://premiumtvs.space/live/YqXTywueEV/damp2purchase/20622.ts" }
       ],
       "autoPlayBackup": true
     },
@@ -327,7 +329,7 @@
       "logo": "https://i.postimg.cc/Dyyv0nZF/STAR-GOLD-HD.png",
       "group": "Movies",
       "tabs": [
-        { "name": "Main Stream", "url": "http://103.135.253.32:8080/STAR-MOVIES/index.m3u8" }
+        { "name": "Main Stream", "url": "http://steveit4.net:80/live/3D458C361A77/80DD123017CE/1020175.ts" }
       ],
       "autoPlayBackup": true
     },
