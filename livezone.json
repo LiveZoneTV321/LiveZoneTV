@@ -145,7 +145,8 @@
       "logo": "https://i.postimg.cc/qR88k0pB/DURANTA-TV.png",
       "group": "Kids",
       "tabs": [
-        { "name": "Main Stream", "url": "https://sm-monirul.xyz/@monirul_Islam_SM/stream.php?id=duranta_tv&e=.m3u8" }
+        { "name": "Main Stream", "url": "https://sm-monirul.xyz/@monirul_Islam_SM/stream.php?id=duranta_tv&e=.m3u8" },
+         { "name": "Stream 1",       "url": "http://rgkkw.live:8080/live/4dfoydR2gZ/clever3still/433.ts" },
       ],
       "autoPlayBackup": true
     },
