@@ -77,9 +77,10 @@
       "logo": "https://i.postimg.cc/G2ZhGWJ9/JALSHA-MOVIES-HD.png",
       "group": "indian Bangla",
       "tabs": [
-        { "name": "Main Stream", "url": "https://box.bbaria.net:8083/Jalsha_Movie/tracks-v1a1/mono.m3u8" },
-        { "name": "Stream 1",       "url": "http://tv.dugdugilive.com:8080/0ne$ky23/jalshamovies/tracks-v1a1/mono.m3u8" },
-{ "name": "Stream 2",       "url": "https://sm-monirul.xyz/@monirul_Islam_SM/stream.php?id=jalsha_movies_hd&e=.m3u8" }
+        { "name": "Main Stream", "url": "http://103.114.11.37:8081/Star-Jalsha/index.m3u8?token=dsgdfgsdfgasf" },
+{ "name": "Stream 1",       "url": "https://box.bbaria.net:8083/Jalsha_Movie/tracks-v1a1/mono.m3u8" },
+        { "name": "Stream 2",       "url": "http://tv.dugdugilive.com:8080/0ne$ky23/jalshamovies/tracks-v1a1/mono.m3u8" },
+{ "name": "Stream 3",       "url": "https://sm-monirul.xyz/@monirul_Islam_SM/stream.php?id=jalsha_movies_hd&e=.m3u8" }
       ],
       "autoPlayBackup": true
     },
@@ -88,7 +89,7 @@
       "logo": "https://i.postimg.cc/MThKVCbH/COLORS-BANGLA-CINEMA.png",
       "group": "indian Bangla",
       "tabs": [
-        { "name": "Main Stream", "url": "http://198.195.239.50:8095/colorsBanglaChinema/index.m3u8" },
+        { "name": "Main Stream", "url": "http://103.114.11.37:8081/Colors-bangla-cinema/index.m3u8?token=dsgdfgsdfgasf" },
         { "name": "Stream 1",    "url": "https://bitmovin-a.akamaihd.net/content/art-of-motion_drm/m3u8s/11331.m3u8" },
         { "name": "Stream 2",    "url": "http://103.114.11.37:8081/Colors-bangla-cinema/index.m3u8" }
       ],
