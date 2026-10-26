@@ -167,6 +167,15 @@
       "autoPlayBackup": true
     },
     {
+      "name": "Disney Channel",
+      "logo": "https://i.postimg.cc/4NbZZBqB/Disney-Channel.png",
+      "group": "Kids",
+      "tabs": [
+        { "name": "Main Stream", "url": "http://223.25.71.211:5001/live/auto/3321.m3u8" }
+      ],
+      "autoPlayBackup": true
+    },
+    {
       "name": "Super Hungama",
       "logo": "https://i.postimg.cc/DZqq2F7h/SUPER-HUNGAMA.png",
       "group": "Kids",
@@ -190,15 +199,6 @@
       "group": "Kids",
       "tabs": [
         { "name": "Main Stream", "url": "http://223.25.71.211:5001/render.m3u8?auth=GVkZkkg7yy37QAzdhOWQNRlevsY6U2kfRBywGhcAlr9NMpiwd_gJJPQvVzadXYX80_Tigif9Bzi-wk15bFWsHyLR6Y55Nl6yEDXr6kM6YDDuxwBb-KHwb21jzIpnR4ZzXYTMw4YTc8pGtito1rCWjTRWmLqEc_v7gQcaLhPQyw3DkudFs7aWaO3iJ1uOEEgD8OX6aaIpPOMxqbnAZuqn0qc8rX1hYb61yqJU9KtiS4TGrjFmuivvME0IZm8itnN-O_wRHUFv3yemvCITVPxLyocMWpzj9YNBk9Mawtbwnf4xhDI33Akfq00NIYGNhNhfXBhXCp80s-g5oMYDPShAk_m57k_pu4LFtXHWxa5UcFdHoSMLo2r3tgLuov4T0hTBi2oloVyCbDQwWgXIPxQ=&channel_key_id=816&q=auto" }
-      ],
-      "autoPlayBackup": true
-    },
-    {
-      "name": "Disney Channel",
-      "logo": "https://i.postimg.cc/4NbZZBqB/Disney-Channel.png",
-      "group": "Kids",
-      "tabs": [
-        { "name": "Main Stream", "url": "http://223.25.71.211:5001/live/auto/3321.m3u8" }
       ],
       "autoPlayBackup": true
     },
