@@ -153,7 +153,7 @@
       "group": "Kids",
       "tabs": [
         { "name": "Main Stream", "url": "https://app.uckingcrazy1.workers.dev/api/play/Duronto%20TV.m3u8" },
-         { "name": "Stream 1",       "url": "http://rgkkw.live:8080/live/4dfoydR2gZ/clever3still/433.ts" },
+         { "name": "Stream 1",       "url": "http://rgkkw.live:8080/live/4dfoydR2gZ/clever3still/433.ts,m3u8" },
       ],
       "autoPlayBackup": true
     },
@@ -306,8 +306,8 @@
       "logo": "https://i.postimg.cc/gkkzjmJG/SONY-PIX-HD.png",
       "group": "Movies",
       "tabs": [
-        { "name": "Main Stream", "url": "http://steveit4.net:80/live/3D458C361A77/80DD123017CE/72148.ts" },
-        { "name": "Stream 1", "url": "https://media.hmair.xyz/api/play/Sony%20PIX%20HD.m3u8" }
+        { "name": "Main Stream", "url": "https://app.uckingcrazy1.workers.dev/api/play/Sony%20Pix.m3u8" },
+        { "name": "Stream 1", "url": "http://steveit4.net:80/live/3D458C361A77/80DD123017CE/72148.ts.m3u8" }
       ],
       "autoPlayBackup": true
     },
