@@ -273,9 +273,10 @@
       "logo": "https://i.postimg.cc/KvqZgwkc/SONY-MAX-HD.png",
       "group": "Movies",
       "tabs": [
-        { "name": "Main Stream", "url": "http://223.25.71.211:5001/render.m3u8?auth=38lwqPXXHG2V_SNzpIFPlUvw3gsqsEOiFFSRLoha5ptNL11nNqaMBG7orxLwiTR2ZvzuvILPmf34AeaDD7ej4GtDLMjTTtWiLCUcSiLfe7PEQ6zqDMMxD3Azw1GmlciLV8xego9qcPeLsSKtrorMIdnxMuj9pS7swTDVGAemRyjlzvsU9JImKGpAsOBjYBTPfdu3-aDtGeQNd3BJOhkwdPepgDVIQZAOXlj3BM8TxqzklO0r7jcjRXuirAPcp8OYhqeP-nKpRxQMC8H72xetSh6GxqEz5fKRJtJ9YZcuNljh5-OPk_8AjkMsDyE2qCX4dQHjLWJiW6qiFxaOGmSmLdvedYVctj4Ww-_HENG8HkrLSWiv0IgR8k2KAlxTc760SoiKY8uJPD3d4fp4V8M=&channel_key_id=476&q=auto" },
-        { "name": "Stream 1", "url": "https://drk6xq0vhn.gpcdn.net/live/max_hd_abr/index.m3u8" },
-        { "name": "Stream 2", "url": "https://media.hmair.xyz/api/play/Sony%20MAX%20HD.m3u8" }
+        { "name": "Main Stream", "url": "http://103.151.60.162:2122/play/a014/index.m3u8?hls" },
+        { "name": "Stream 1", "url": "http://223.25.71.211:5001/render.m3u8?auth=38lwqPXXHG2V_SNzpIFPlUvw3gsqsEOiFFSRLoha5ptNL11nNqaMBG7orxLwiTR2ZvzuvILPmf34AeaDD7ej4GtDLMjTTtWiLCUcSiLfe7PEQ6zqDMMxD3Azw1GmlciLV8xego9qcPeLsSKtrorMIdnxMuj9pS7swTDVGAemRyjlzvsU9JImKGpAsOBjYBTPfdu3-aDtGeQNd3BJOhkwdPepgDVIQZAOXlj3BM8TxqzklO0r7jcjRXuirAPcp8OYhqeP-nKpRxQMC8H72xetSh6GxqEz5fKRJtJ9YZcuNljh5-OPk_8AjkMsDyE2qCX4dQHjLWJiW6qiFxaOGmSmLdvedYVctj4Ww-_HENG8HkrLSWiv0IgR8k2KAlxTc760SoiKY8uJPD3d4fp4V8M=&channel_key_id=476&q=auto" },
+        { "name": "Stream 2", "url": "https://drk6xq0vhn.gpcdn.net/live/max_hd_abr/index.m3u8" },
+        { "name": "Stream 3", "url": "https://media.hmair.xyz/api/play/Sony%20MAX%20HD.m3u8" }
       ],
       "autoPlayBackup": true
     },
