@@ -152,7 +152,7 @@
       "logo": "https://i.postimg.cc/qR88k0pB/DURANTA-TV.png",
       "group": "Kids",
       "tabs": [
-        { "name": "Main Stream", "url": "https://sm-monirul.xyz/@monirul_Islam_SM/stream.php?id=duranta_tv&e=.m3u8" },
+        { "name": "Main Stream", "url": "https://app.uckingcrazy1.workers.dev/api/play/Duronto%20TV.m3u8" },
          { "name": "Stream 1",       "url": "http://rgkkw.live:8080/live/4dfoydR2gZ/clever3still/433.ts" },
       ],
       "autoPlayBackup": true
@@ -245,7 +245,7 @@
       "logo": "https://i.postimg.cc/wM0t1sDF/NATGEO-HD.png",
       "group": "Documentary",
       "tabs": [
-        { "name": "Main Stream", "url": "http://198.195.239.50:8095/nationalGeographic/tracks-v1a1/mono.m3u8" }
+        { "name": "Main Stream", "url": "https://app.uckingcrazy1.workers.dev/api/play/National%20Geographic.m3u8" }
       ],
       "autoPlayBackup": true
     },
@@ -470,7 +470,16 @@
   "logo": "https://i.postimg.cc/Qx3GZn6T/20240823_024117.png",
   "group": "Sports",
   "tabs": [
-    { "name": "Main Stream", "url": "http://livetv.akr4m.com:8080/bdtv/restrem/2.m3u8" }
+    { "name": "Main Stream", "url": "http://45.117.61.162/01_Tsports_HD/tracks-v1a1/mono.m3u8" }
+  ],
+  "autoPlayBackup": true
+},
+{
+  "name": "Ten Cricket",
+  "logo": "https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/ra2x_pQBrjBfS2_RWG9l/posters/795170c2-ec78-457e-9fa0-54a23d23361c.webp",
+  "group": "Sports",
+  "tabs": [
+    { "name": "Main Stream", "url": "https://app.uckingcrazy1.workers.dev/api/play/T%20Sports.m3u8" }
   ],
   "autoPlayBackup": true
 },
