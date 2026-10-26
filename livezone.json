@@ -152,7 +152,7 @@
       "logo": "https://i.postimg.cc/qR88k0pB/DURANTA-TV.png",
       "group": "Kids",
       "tabs": [
-        { "name": "Main Stream", "url": "https://app.uckingcrazy1.workers.dev/api/play/Duronto%20TV.m3u8" },
+        { "name": "Main Stream", "url": "" },
          { "name": "Stream 1",   "url": "http://rgkkw.live:8080/live/4dfoydR2gZ/clever3still/433.ts" }
       ],
       "autoPlayBackup": true
@@ -285,7 +285,7 @@
       "logo": "https://assets-prod.services.toffeelive.com/Ay52-JQBv9knK3AHFDWt/posters/00afb30b-3c19-4c4c-abd8-891db94e4767.webp",
       "group": "Movies",
       "tabs": [
-        { "name": "Main Stream", "url": "https://app.uckingcrazy1.workers.dev/api/play/Sony%20Max.m3u8" },
+        { "name": "Main Stream", "url": "" },
         { "name": "Stream 1", "url": "https://drk6xq0vhn.gpcdn.net/live/max_hd_abr/index.m3u8" },
         { "name": "Stream 2", "url": "https://drk6xq0vhn.gpcdn.net/live/sony_max_sd_abr/index.m3u8" }
       ],
@@ -307,7 +307,7 @@
       "logo": "https://i.postimg.cc/gkkzjmJG/SONY-PIX-HD.png",
       "group": "Movies",
       "tabs": [
-        { "name": "Main Stream", "url": "https://app.uckingcrazy1.workers.dev/api/play/Sony%20Pix.m3u8" },
+        { "name": "Main Stream", "url": "" },
         { "name": "Stream 1", "url": "http://223.25.71.211:5001/live/auto/762.m3u8" }
       ],
       "autoPlayBackup": true
@@ -349,7 +349,7 @@
   "drmLicenseKey": "de8045e9f0fb4d03845dcc4a8bd7712a:6807bd09bda34ada83152908192af6d6",
   "tabs": [
     { "name": "Main Stream", "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd/default/index.mpd" },
-    { "name": "Stream 1", "url": "https://app.uckingcrazy1.workers.dev/api/play/PictureTv.m3u8" }
+    { "name": "Stream 1", "url": "" }
   ],
   "autoPlayBackup": true
 },
@@ -493,7 +493,7 @@
   "logo": "https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/ra2x_pQBrjBfS2_RWG9l/posters/795170c2-ec78-457e-9fa0-54a23d23361c.webp",
   "group": "Sports",
   "tabs": [
-    { "name": "Main Stream", "url": "https://app.uckingcrazy1.workers.dev/api/play/T%20Sports.m3u8" }
+    { "name": "Main Stream", "url": "" }
   ],
   "autoPlayBackup": true
 },
