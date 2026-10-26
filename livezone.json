@@ -7,9 +7,10 @@
       "group": "indian Bangla",
       "tabs": [
         { "name": "Main Stream", "url": "http://103.135.253.32:8080/STAR-JALSHA-HD/index.m3u8" },
-        { "name": "Stream 1",  "url": "http://tv.dugdugilive.com:8080/0ne$ky23/starJalsa/tracks-v1a1/mono.m3u8" },
-        { "name": "Stream 2",  "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8" },
-        { "name": "Stream 3",  "url": "http://103.151.60.162:2122/play/a00w/index.m3u8" }
+         { "name": "Stream 1", "url": "http://103.114.11.37:8081/Star-Jalsha/index.m3u8?token=dsgdfgsdfgasf" },
+        { "name": "Stream 2",  "url": "http://tv.dugdugilive.com:8080/0ne$ky23/starJalsa/tracks-v1a1/mono.m3u8" },
+        { "name": "Stream 3",  "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8" },
+        { "name": "Stream 4",  "url": "http://103.151.60.162:2122/play/a00w/index.m3u8" }
       ],
       "autoPlayBackup": true
     },
@@ -77,10 +78,9 @@
       "logo": "https://i.postimg.cc/G2ZhGWJ9/JALSHA-MOVIES-HD.png",
       "group": "indian Bangla",
       "tabs": [
-        { "name": "Main Stream", "url": "http://103.114.11.37:8081/Star-Jalsha/index.m3u8?token=dsgdfgsdfgasf" },
-{ "name": "Stream 1",       "url": "https://box.bbaria.net:8083/Jalsha_Movie/tracks-v1a1/mono.m3u8" },
-        { "name": "Stream 2",       "url": "http://tv.dugdugilive.com:8080/0ne$ky23/jalshamovies/tracks-v1a1/mono.m3u8" },
-{ "name": "Stream 3",       "url": "https://sm-monirul.xyz/@monirul_Islam_SM/stream.php?id=jalsha_movies_hd&e=.m3u8" }
+        { "name": "Main Stream", "url": "https://box.bbaria.net:8083/Jalsha_Movie/tracks-v1a1/mono.m3u8" },
+        { "name": "Stream 1",       "url": "http://tv.dugdugilive.com:8080/0ne$ky23/jalshamovies/tracks-v1a1/mono.m3u8" },
+        { "name": "Stream 2",       "url": "https://sm-monirul.xyz/@monirul_Islam_SM/stream.php?id=jalsha_movies_hd&e=.m3u8" }
       ],
       "autoPlayBackup": true
     },
@@ -114,7 +114,8 @@
       "logo": "https://i.postimg.cc/Pxmmthdh/SONIC.png",
       "group": "Kids",
       "tabs": [
-        { "name": "Main Stream", "url": "http://198.195.239.50:8095/SONIC/tracks-v1a1/mono.m3u8" }
+        { "name": "Stream BD", "url": "http://223.25.71.211:5001/render.m3u8?auth=tFbRRBTxrFafg4AvNcqHoKGDXCg-lnz3V42Uq7AthydqayzgYQ9_nX1BML1OB6p2JUlCVmSvBI39MLDkjVLylsQ-1jmhbk2uQpjR8pS2NF0y28bTuamDE-wY0AvpcdWYbwbDBNQmPCd4nVJk2CSQXeOrwKHzIQDX4EzGzKHm_TFgXrFsD4mHgentxwkDQIpb26ggtcpQNj8sHEMkxKLz7fOT0oaFy71gJ15kYWbIblYi5B8uWdZ2kZXRLnQ8GVDBAaNtJtp4SUdZ_iKsEl0IUQejfL4_SApmJ8N9Hq21wzG30pj-XVWhIKDyGuWcmBrwTZcz_tlatrgguVFDi_lEnH4Vp-468vsAoNL5a35u7_nF2pGinD921XnRLdDuRm63341JVrXv-Elj-h7Gh6_rmKrgcI0gpwftmS5eJgo=&channel_key_id=1345&q=auto" },
+        { "name": "Stream HIN", "url": "http://223.25.71.211:5001/render.key?auth=pD1Ig6D2A1eEQ6YJ_ZPDV2guUtrCpRLiIsf6jAsHoba3xxAuKz7DDoo-HtroYFGpq642HLagyR_FxyII606MVISdvkEzcsLsOHCq26o-Fyr1zH8CXe4bHpCcUPPuBfM_71RxAHHhihoax6VgATKJDTBVxtrw4XPioGNgPZ2opSocsoH3UK3G-bdINx1SE04fY0cyEFHrjHVtaC8m9JLtiJyPW3Y6Mm9O_MGo5mt5dCMoOFuSo9fhu8T2zWcaVjUW02Dc28dU2WSvloLdL6c00cm5Vq2EsXYUrzrglgd_fMunNUB6aX16-fhStqZrUhBnBGcDmJGrp6zr9MfECtk2Jm-0keIq1zxhhyUq7NiXhHnzSgSqZEGls2QSfvUWx12BYGSiT0Gz-0VFOfbCfxWL4V3uNji-YGY_kr-r-1G_WuTpRn4=&channel_key_id=815" }
       ],
       "autoPlayBackup": true
     },
@@ -132,7 +133,8 @@
       "logo": "https://i.postimg.cc/Jnbb1mRR/NICK.png",
       "group": "Kids",
       "tabs": [
-        { "name": "Main Stream", "url": "http://198.195.239.50:8095/NICK/index.m3u8" }
+        { "name": "Stream BD", "url": "http://223.25.71.211:5001/render.m3u8?auth=hXgLyjEnXRJooq3gxFPwJ-5d4SKnxtnvttNlB9fEIGVeVJxafoFmQCbhgDKXA7RgugpLA1W8aTDrSMSp9r6JE491FCsHH1n1YsbDvlWOy2BGhSWwp4ClRB3v6A3MKUCaqF_M59wREFkgjMAuvuVg9Go7ufQz1Iplk4oD7grYNPUm0ddC4cUb69U4daOBRuMLcsk6CwPF8kba8boNzWQ1LZbHJfJQR_m2_UDjnOvzNInlXE17t1DvhiG5Ard_-UKDxvWxM1EplNherZO81JQic1s6OMMN3BB7VOgymR1E7oF9UV8TZaCoVh5d33FQUjFQFzlEv_EqhxUSNiJ39ad9E2waieDE9GmMe6LT6K1ObsW89ASCwcEfWTNccMy3Plya58YPAa6PQ2BHLXZy9ipIkD8=&channel_key_id=1341&q=auto" },
+        { "name": "Stream HIN", "url": "http://223.25.71.211:5001/render.ts?auth=7HUv_R__ipdMtkK7V3ZV4UHjYH1LuEkDo_NZTy6xGmTFTDDU6jeXpOescIRqmMjFC155NLab__eRppo0e06DNoWluGlNwaCw5gzi4bQJKe9yxIa9YWdgMvX5yxBYB7cHSTKlCV4QWfHiEYlDnwct_UtxDLED3YDVbsIAC4WgCwwuv1mB4eoKweLfpB66TGFWDT3YvXoO_3ZhbQhoxhQDa6OR8pIFpbimAFONbaPNEugvXqETmX7XNHQD5lIkervNhOZBSS25_yywZmpehYLuTdroTniUU2Cyu5z65q3LFIVxMNBeAUafC6LueXBg9MvtHmGLlOKQu5Q90EpJWgXjcb7oR4vNdw3HlMx_KjAWSrGoTBjUHK5fhdmIxCHttJCnaWEZ6bKInqMP1EPCFWIiCbYrwLW0bNRzj9dkwjBIyQ==&channel_key_id=545" }
       ],
       "autoPlayBackup": true
     },
@@ -141,7 +143,7 @@
       "logo": "https://i.postimg.cc/HxQQpHTd/NICK-JR.png",
       "group": "Kids",
       "tabs": [
-        { "name": "Main Stream", "url": "http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/98880.ts" }
+        { "name": "Main Stream", "url": "http://223.25.71.211:5001/render.m3u8?auth=_CUTRIK23zJZg3CcXdGDu-OKAOQtctOUBK7Cdc1KDz8CZNrbkGcBpGFQnaMxc_2o35MqZtDZZ5r2vhX8MDEQDXTysVxd8bcepWn0EhWJBrHsPkzW0lnvaFH-EwzUGNngapzltRTx1hgciu2Jdk2B2qVWOM-j0TxzkMAkSHBCUNABPJPT4-uMgCcupktkKm4i99kfS4xP7MtLGuhofvKEM_J2sfZloZwOfHUl_Ar3lJ8yyqUiGfDHZRlh759-dPbud9flDZCbC_27KKPwmYguQ2_jocQeHPZ_VciL1jH67eDHtgb64VVdQlsCUdaQNhS2KmCvcqveSanp0s3Wor9yWsZ2aN0TwkFiBeyq8OOvAyz2TJe1EA4oDwANRmsklFknHDp2spi-8hJaic8PlVbGbBueGI03tqw9aGk=&channel_key_id=548&q=auto" }
       ],
       "autoPlayBackup": true
     },
@@ -187,16 +189,25 @@
       "logo": "https://i.postimg.cc/1tpp9Py5/CARTOON-NETWORK.png",
       "group": "Kids",
       "tabs": [
-        { "name": "Main Stream", "url": "http://198.195.239.50:8095/cartoonNetwork/index.m3u8" }
+        { "name": "Main Stream", "url": "http://223.25.71.211:5001/render.m3u8?auth=GVkZkkg7yy37QAzdhOWQNRlevsY6U2kfRBywGhcAlr9NMpiwd_gJJPQvVzadXYX80_Tigif9Bzi-wk15bFWsHyLR6Y55Nl6yEDXr6kM6YDDuxwBb-KHwb21jzIpnR4ZzXYTMw4YTc8pGtito1rCWjTRWmLqEc_v7gQcaLhPQyw3DkudFs7aWaO3iJ1uOEEgD8OX6aaIpPOMxqbnAZuqn0qc8rX1hYb61yqJU9KtiS4TGrjFmuivvME0IZm8itnN-O_wRHUFv3yemvCITVPxLyocMWpzj9YNBk9Mawtbwnf4xhDI33Akfq00NIYGNhNhfXBhXCp80s-g5oMYDPShAk_m57k_pu4LFtXHWxa5UcFdHoSMLo2r3tgLuov4T0hTBi2oloVyCbDQwWgXIPxQ=&channel_key_id=816&q=auto" }
       ],
       "autoPlayBackup": true
     },
     {
-      "name": "ETV Bal Bharat",
-      "logo": "https://i.postimg.cc/LXdtKhF5/BAL-BHARAT.png",
+      "name": "Disney Channel",
+      "logo": "https://i.postimg.cc/4NbZZBqB/Disney-Channel.png",
       "group": "Kids",
       "tabs": [
-        { "name": "Main Stream", "url": "http://198.195.239.50:8095/ETV.BAL.BHARAT/index.m3u8" }
+        { "name": "Main Stream", "url": "http://198.195.239.50:8095/HUNGAMA/index.m3u8" }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "Discovery-Kids",
+      "logo": "https://i.postimg.cc/85W94CVz/Discovery-Kids-Hin1.png",
+      "group": "Kids",
+      "tabs": [
+        { "name": "Main Stream", "url": "http://223.25.71.211:5001/render.m3u8?auth=hKEww7X65qsUuh1BGo5TY01WYiU0byg1WLZ4o6KwnX_-yDcvheowH9qRoIiM15HEUw70Pz5FJlQk6uQth4dsDcPj7gKH8B2pwKsqpSe3PWRIP54ELy4kxUL0SUOR-3ewQxJNiojMnzOqNtWYM3Jt8a0ZNvbFhRf8IJ5jMPUNc4-KuW3OrQI8i7V_LYfYDnu3e4kd5Ub4bwUdv9yg2jleezC1-2UH2OIBeMMhBMqQgzcwCa1ydonr8xguy10msTW4im2_xpeDPZfQsUyiH_LVaHmB-Acmzxsro0BWb90PxZxDdH1rOjPTpsR6QIHYcmNbp-tp2FTLQ23m4q8pTbxm8HItVpGvR7uArE92mUs0pvlbjGrzVkJPsAnCMxfs_4SZDMTRQXVd22sB5jeMdJAp-V2pCm75l6vtOOfk5nkYF8hO7-KThbzQlOw=&channel_key_id=554&q=auto" }
       ],
       "autoPlayBackup": true
     },
@@ -205,8 +216,8 @@
       "logo": "https://i.postimg.cc/XN8BHttW/DISCOVERY-HD.png",
       "group": "Documentary",
       "tabs": [
-        { "name": "Main Stream", "url": "https://sm-monirul.xyz/@monirul_Islam_SM/stream.php?id=discovery_hd&e=.m3u8" },
-        { "name": "Stream 1",       "url": "http://sm-monirul.xyz/@monirul_Islam_SM/exp.php?id=discovery_bangla&sm=.m3u8" }
+        { "name": "Stream bangla", "url": "http://223.25.71.211:5001/render.m3u8?auth=v2QyRklHeiHyosCkLXckIEKwhD8zKDwxyS2pw17dJwdzrggFuM6gqhijsIoAWcVE05c8jx7Drq2SW8ABpEwppm5H9Vd5F6IHxZVtLCWOOydOs94LK6xWj0sSC6sopF9-itfPMnAXhTWZv4ztZBOFVWX4stma6Xoc97IayBV9_upLLaFB2ucy1ovOeHIV2y2gA5xDFAcpoIaICZUFYcCan2mxxBxVYYGq1PKe_MZs_RJfXD-3xgTtianqnD9SVrblTJ8LsF78O1bK8aOBCTMFdG-pNzxD7DHLEGXp8hZHm-Y4WCD5cqzup1XCdV_wOPXOnpPPENqcDvkLz2oF1iJuch89mzE1-7bLMr37K0RQaXTLznEbD-IIw5bM2raXU-cefzd7ILb6m6kOLMT_A-Xx4TjoZg701XLjbdtj7s9Df6agD9PR6OhZi6RjULJduSJ88E042ul2dFo=&channel_key_id=573&q=auto" },
+        { "name": "Stream Hindi",       "url": "http://223.25.71.211:5001/render.m3u8?auth=5sgludpzBCj4gALp8J31KPzZcmfMUyX-0y2FsaTof8j317mVJEFJJRWALni3PEvR-0ADdewy_G60lwvRGLu0uLAkwaCpweCy6Eth_J081egFZgclDsCoFxR5zoT2bvWmMCOmkKWutWCyNv5ilURgteLazUVn0gzm3LJxFZluK6BnBvcjt-qWxURLyqwf8jCNzw8jW55XWEUBe3VLPV761O544lOqv1blUy9J4fDVgZIcskyiQOq72WNbEODbslu76bFO03qd0YImHh-IdMcIH9ZJgXwE2HtdPGu3JgaGm6QTRVlhHXMnbjHWNZaUIcigIBgfngxy2iKl2CHinf3X1zvUrNVdElDgobGV-MmMascAZF9dOQ9mEaAgC_8bpcQ-aynmlxQ6ycGjritntKejdFyaW_DxVi33iGX-FeeAQ1puLv1OTe9iHWA336BwKix4&channel_key_id=575&q=auto" }
       ],
       "autoPlayBackup": true
     },
@@ -224,7 +235,7 @@
       "logo": "https://i.postimg.cc/QNbK4vvh/ANIMAL-PLANET-HD.png",
       "group": "Documentary",
       "tabs": [
-        { "name": "Main Stream", "url": "http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/98873.ts" },
+        { "name": "Main Stream", "url": "http://223.25.71.211:5001/render.m3u8?auth=P_-rlnCtmnPBwZmD949f690PcMtT71nJPzPXTCOcqLXK35ktoQZgJ2ttw0G1mKkiI0fdEVliRb9zHNp_VCLxLpDTcX-teqj5dEIM6ku4tI7ROyTl-f1OIS1XiV-f1cRQKsFomD_WI1iFYrPvYvOr_0HAcWM4K7veCtsI1ZI3SKm6XN5FwTeb0oVBpM0ZEX_qyT7HJ8Pp90-RM_AL9hZfkh9GCPFWE0oUxg3GjD-lTb5DPDXkIdkqoVtqF7-051LmREJcMP-ilxrEKKDO-EGzIE6SRcUQ_PeqSD7cGi_ifgx4JT2wpG0ibbPDIaXNGaHEjc8QH60CpBpWmUjdkYIwrun3JVy4RTGtWrP5psqtlRFuv1_aZ_bqwMLd-1gEUJTMJ-P1OMg4gnypICKxsxe5eIPJgH5Mm-yfMfEAahySUZbScPZ2vh0=&channel_key_id=566&q=auto" },
          { "name": "Stream 1",   "url": "http://rgkkw.live:8080/live/4dfoydR2gZ/clever3still/5249.ts" }
       ],
       "autoPlayBackup": true
@@ -252,7 +263,7 @@
       "logo": "https://i.postimg.cc/yxvJDS0v/TRAVEL-XP.png",
       "group": "Documentary",
       "tabs": [
-        { "name": "Main Stream", "url": "http://rgkkw.live:8080/live/4dfoydR2gZ/clever3still/181.ts" },
+        { "name": "Main Stream", "url": "http://223.25.71.211:5001/render.m3u8?auth=1SFRPw19TIEshOyAAFkogF3pm19z5KWNVHlCJcR75IydR1eva3yqfUsxozgJ71-81tnIusHoG1wRwGBx1InW1H8fj0sio4S7UFqiIBxSKxD0jSvkUgMOzY7BmBmnlX73h0sEGQArO7pepCXoHbdtwMClnJN3RBTcDAwT76FGSeUy7bleXXLClMN6_7Mtw2RXTf_ooMXcMTAoDl6zYqkBajK0dPpE0wtmyFP0S8vCAY0J-WDKdTtgOqEp8SgEMF0uU6jWdYxN_AZmgdBcf8v7dxjxA11qSE8omuVpfldjCFebi6Eul7CTlovWk_gdnjc9HDVeFfdza-KYitNoKsY_uqUqWrjB_3riAROveUDyCNc_RzGsjhYEMyQQK-R7KZXzOblSoatO&channel_key_id=562&q=auto" },
          { "name": "Stream 1",   "url": "http://premiumtvs.space/live/YqXTywueEV/damp2purchase/20622.ts" }
       ],
       "autoPlayBackup": true
@@ -284,7 +295,8 @@
       "group": "Movies",
       "tabs": [
         { "name": "Main Stream", "url": "http://107.167.16.138/sonymax2/index.m3u8?token=test" },
-        { "name": "Stream 1", "url": "https://drk6xq0vhn.gpcdn.net/live/max_2_abr/index.m3u8" }
+        { "name": "Stream 1", "url": "https://drk6xq0vhn.gpcdn.net/live/max_2_abr/index.m3u8" },
+        { "name": "Stream 2", "url": "http://223.25.71.211:5001/render.m3u8?auth=2AdKTiUrQLPwsQhdWEH5LZ1nkHWhSBYkNSlN3IYAvkmQNogjI87Cfc_Pn08bmUG4qvXk7y4DG4q_dzj8ZQDPNwQg5L4ROcZl-4WDLV10rD_6AABG69EJ0igtXO81nkFwV87hGeGB91APiPb0fjCsnKf52lnorxqJCHc2RkEkuZoGwI8Lx7jJl0L5cv0Zbz-n8hN-9xwmHo5vk_dHq-Ptfsxqe4BfaZDRX3EiAT-KOlTF-3KFXJfOUioY6VjL37hUoVEZ6x48PltA109Fh9m6lA-ZSm7y11q-EjC_0ArrCYYI2xdslqFi66kqlwiN7XiMQv6die-46V5KHAv1CcMKiERdNVto1wFPCHQ8NCnSGlsMZUmKTs_Lh_q0jcrI4yStH8UdBip7C5Mpmu08qy5dIps=&channel_key_id=483&q=auto" }
       ],
       "autoPlayBackup": true
     },
@@ -295,6 +307,15 @@
       "tabs": [
         { "name": "Main Stream", "url": "http://steveit4.net:80/live/3D458C361A77/80DD123017CE/72148.ts" },
         { "name": "Stream 1", "url": "https://media.hmair.xyz/api/play/Sony%20PIX%20HD.m3u8" }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "Sony-WAH",
+      "logo": "https://i.postimg.cc/25dXLKd7/Sony-WAH.png",
+      "group": "Movies",
+      "tabs": [
+        { "name": "Main Stream", "url": "http://223.25.71.211:5001/render.m3u8?auth=qpyNOEeWrtyK2zFXKighvfg2-cYAgcNS14mX7Bhmf4n9EKINcho-sEFAUms2cvsDEt2P0sGtimPcNEu6SaXpqOk4ay2QKGcRkEEirj1gSp0jqLDpsXHqejlq5BhuUg-yRRY0bAqMttAX9fwnM0NGhxx7xFEZ8EGSdH266ppPPlVWZJAGu7HRDn7rdUByXe5ekoT-LxYj7DMeTHsybMkUVVpAO1gg3HK8LPYkKzJwuvIkYb7YNfM0pjOh2JKs9Hg3f0OnbVucn0IyYDVO2na8pDME4fI5qJqqFUGPi2VQ2sM9ZPcksSNaNeSI9wB9N2Dx_fdq4gA1Ko-iHH4JebY1xUKhE01Tj0VO_Yij9zANS3n5GaVYxSC-_FSDzPNaN15X1ihQiiAvnSp8MNNA6Hk=&channel_key_id=1393&q=auto" }
       ],
       "autoPlayBackup": true
     },
@@ -348,11 +369,22 @@
       "autoPlayBackup": true
     },
     {
+      "name": "Colors Cineplex",
+      "logo": "https://i.postimg.cc/d1j1Xw2k/Colors-Cineplex1.png",
+      "group": "Movies",
+      "tabs": [
+       { "name": "Main Stream", "url": "http://223.25.71.211:5001/render.m3u8?auth=KXgVbQmfzSo_-2yEgyvBhQ0SFnNu0ilN2y2o89kK587mBW9dIwYzoWirHLNx_tOLSYgKRkoliTKs-EMOtuBmRV0953B9JBMbYFq7cG1JqvGy3p1Td8Ac17n-pmVH0RmvMMkYVUoIh6S-cgPwIu1sEPi8nw0iV6jMECaSYvKoATexXPfPLOpmK86JO_wtp1pZhVtURca2UhLL8WFUIIMFx5lEaDseRbZxzQOyJpe2QH3mF-5QZkl8OPaynL6O7o37Yi864aWzf6YNOxxwX4XZYToDS6-GVLT0DSSrzBUC-VHr6krEjYkjCGB1Mb8JQTNZEsD93BMqBpUHFXfXF8PN34hHU2-qwbXD96PMboB76sDHs9pzi8WQSA1u4nkf_eVeg9SYu8mSqAwFLDSgbVNnWufQrMQke6OXlGR80ozqLE3-8gwqEw==&channel_key_id=482&q=auto" },
+       { "name": "Stream 1", "url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/ColorsCineplexUK.m3u8" }
+      ],
+      "autoPlayBackup": true
+    },
+    {
       "name": "Colors Cineplex HD",
       "logo": "https://i.postimg.cc/ZqcZ4QSv/COLORS-CINEPLEX-HD.png",
       "group": "Movies",
       "tabs": [
-       { "name": "Main Stream", "url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/ColorsCineplexUK.m3u8" }
+       { "name": "Main Stream", "url": "http://223.25.71.211:5001/render.m3u8?auth=2bRxbWnjEOTwFIC7qaXjbp7XqsRitUr5_U7T_ob4w31Gt0aC1yNEm4juq7hCGIgqXucD1sn0fkpLi6_mU1ww_7RoncPdO9umxwHVSoOIHnqpXs3inBojsdgNxTdamANaw0CT_qGjIpQ-IgNDn5YK_fCj-P4kODbbnGS-jIJ6X4Vvfh0NvmThydsTJ_CaenPHKJ1q6sArx8LuJpNAj2_ZOiRSFEhdlrfZBeIzDI3w8iCQU5-h2-RQiHjDeK6XAX54pxpJYeruIpRuA3R9dEEEw_pPxqj9_ggo8y-K0SX90WIaRbxBSvJd7Zw5ZQfz_PkBrb4c4kgJTC1SSwrLZIGerQXllf84Eze7R-sycmK_UIAEWAmBBGRTNgux05s_qrrMvNW6k_E05eBi7qe0gfTKol5lfKWoTm871_MFxdwil-Z9ztl4Qd8HfA==&channel_key_id=1477&q=auto" }
+
       ],
       "autoPlayBackup": true
     },
@@ -361,7 +393,8 @@
       "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCineplexBollywood.png",
       "group": "Movies",
       "tabs": [
-       { "name": "Main Stream", "url": "http://live.balajibroadband.com:3500/live/1763.m3u8" }
+       { "name": "Main Stream", "url": "http://live.balajibroadband.com:3500/live/1763.m3u8" },
+       { "name": "Stream 1", "url": "http://223.25.71.211:5001/live/auto/1763.m3u8" }
       ],
       "autoPlayBackup": true
     },
@@ -370,7 +403,8 @@
       "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCineplexSuperhit.png",
       "group": "Movies",
       "tabs": [
-       { "name": "Main Stream", "url": "http://live.balajibroadband.com:3500/live/1450.m3u8" }
+       { "name": "Main Stream", "url": "http://live.balajibroadband.com:3500/live/1450.m3u8" },
+       { "name": "Stream 1", "url": "http://223.25.71.211:5001/render.m3u8?auth=524YloJglpES-YkeQov_di270j4AL2DCIs4-EZ_fstwPBr0UY-xfctCFeZQDXGTOiU-EfQZ4EkqAy0mpzPGlD-WVp74g1Ou08mIkh5PHe8APBOwhdZ1bH49hRqAUEk7EHwhWGTvJhDlzkoyGadusaBOU-8ySsAzx0aYnB0tyBIy2U-9-KbdePsGzMKwu9e6fcCsTeUr5glSMeoPB3U4mNIcXJjvxajZS_e3ayUZn2CNTGFyAJql33mPFX2sW48BvUFNhUlDoVDI_DLaA2aslVDsoL1bVsIp_d3ti9oK1a593Qb7WsC4D8xWtzDhxTkmEfCHILwrueS_UdIqifjlfpUWg92emihcD_tMJgpv9Yj31ROp5M7QgtHZ3MSYdlA7XgLtB7-sEePDzaWcRukGkyqOFOMdSc0RU2eYByklZtgBd6AhwpohS86u_c0Agewh8Jl-MF94kUEf1gpQ=&channel_key_id=1450&q=auto" }
       ],
       "autoPlayBackup": true
     },
@@ -446,6 +480,33 @@
   "group": "Sports",
   "tabs": [
     { "name": "Main Stream", "url": "https://tvsen7.aynascope.net/zY3hJ7pQ2vM5gD8s/tracks-v1a1/mono.ts.m3u8" }
+  ],
+  "autoPlayBackup": true
+},
+{
+  "name": "Sony Sports 1",
+  "logo": "https://i.postimg.cc/k24mpPqg/SONY-SPORTS1-HD.png",
+  "group": "Sports",
+  "tabs": [
+    { "name": "Main Stream", "url": "https://drk6xq0vhn.gpcdn.net/live/ten_1_hd_720/index.m3u8" }
+  ],
+  "autoPlayBackup": true
+},
+{
+  "name": "Sony Sports 2",
+  "logo": "https://i.postimg.cc/5X0VRWbt/SONY-SPORTS2-HD.png",
+  "group": "Sports",
+  "tabs": [
+    { "name": "Main Stream", "url": "https://drk6xq0vhn.gpcdn.net/live/ten_2_hd_720/index.m3u8" }
+  ],
+  "autoPlayBackup": true
+},
+{
+  "name": "Sony Sports 3",
+  "logo": "https://i.postimg.cc/fVLNrQDT/SONY-SPORTS3-HD.png",
+  "group": "Sports",
+  "tabs": [
+    { "name": "Main Stream", "url": "https://drk6xq0vhn.gpcdn.net/live/ten_5_hd_720/index.m3u8" }
   ],
   "autoPlayBackup": true
 },
