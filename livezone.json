@@ -484,33 +484,6 @@
   "autoPlayBackup": true
 },
 {
-  "name": "Sony Sports 1",
-  "logo": "https://i.postimg.cc/k24mpPqg/SONY-SPORTS1-HD.png",
-  "group": "Sports",
-  "tabs": [
-    { "name": "Main Stream", "url": "https://drk6xq0vhn.gpcdn.net/live/ten_1_hd_720/index.m3u8" }
-  ],
-  "autoPlayBackup": true
-},
-{
-  "name": "Sony Sports 2",
-  "logo": "https://i.postimg.cc/5X0VRWbt/SONY-SPORTS2-HD.png",
-  "group": "Sports",
-  "tabs": [
-    { "name": "Main Stream", "url": "https://drk6xq0vhn.gpcdn.net/live/ten_2_hd_720/index.m3u8" }
-  ],
-  "autoPlayBackup": true
-},
-{
-  "name": "Sony Sports 3",
-  "logo": "https://i.postimg.cc/fVLNrQDT/SONY-SPORTS3-HD.png",
-  "group": "Sports",
-  "tabs": [
-    { "name": "Main Stream", "url": "https://drk6xq0vhn.gpcdn.net/live/ten_5_hd_720/index.m3u8" }
-  ],
-  "autoPlayBackup": true
-},
-{
   "name": "A Sports HD",
   "logo": "https://i.postimg.cc/W1z5BGPZ/20240823_024712.png",
   "group": "Sports",
@@ -586,7 +559,7 @@
 },
 {
   "name": "Sony Ten 1",
-  "logo": "https://i.postimg.cc/65fsWLS1/20240823_024136.png",
+  "logo": "https://i.postimg.cc/k24mpPqg/SONY-SPORTS1-HD.png",
   "group": "Sports",
   "tabs": [
     { "name": "Main Stream", "url": "https://drk6xq0vhn.gpcdn.net/live/ten_1_hd_720/index.m3u8" }
@@ -595,7 +568,7 @@
 },
 {
   "name": "Sony Ten 2",
-  "logo": "https://i.postimg.cc/wjqC7RYx/20240823_024150.png",
+  "logo": "https://i.postimg.cc/5X0VRWbt/SONY-SPORTS2-HD.png",
   "group": "Sports",
   "tabs": [
     { "name": "Main Stream", "url": "https://drk6xq0vhn.gpcdn.net/live/ten_2_hd_720/index.m3u8" }
