@@ -114,8 +114,8 @@
       "logo": "https://i.postimg.cc/Pxmmthdh/SONIC.png",
       "group": "Kids",
       "tabs": [
-        { "name": "Stream BD", "url": "http://223.25.71.211:5001/live/auto/1345.m3u8" },
-        { "name": "Stream HIN", "url": "http://223.25.71.211:5001/live/auto/815.m3u8" }
+        { "name": "Stream BD", "url": "https://ziboplay134rd.marvel.bio/live/1345.m3u8" },
+        { "name": "Stream HIN", "url": "https://ziboplay134rd.marvel.bio/live/815.m3u8" }
       ],
       "autoPlayBackup": true
     },
@@ -133,8 +133,8 @@
       "logo": "https://i.postimg.cc/Jnbb1mRR/NICK.png",
       "group": "Kids",
       "tabs": [
-        { "name": "Stream BD", "url": "http://223.25.71.211:5001/live/auto/1341.m3u8" },
-        { "name": "Stream HIN", "url": "http://223.25.71.211:5001/live/auto/545.m3u8" }
+        { "name": "Stream BD", "url": "https://ziboplay134rd.marvel.bio/live/1341.m3u8" },
+        { "name": "Stream HIN", "url": "https://ziboplay134rd.marvel.bio/live/545.m3u8" }
       ],
       "autoPlayBackup": true
     },
@@ -143,7 +143,7 @@
       "logo": "https://i.postimg.cc/HxQQpHTd/NICK-JR.png",
       "group": "Kids",
       "tabs": [
-        { "name": "Main Stream", "url": "http://223.25.71.211:5001/live/auto/548.m3u8" }
+        { "name": "Main Stream", "url": "https://ziboplay134rd.marvel.bio/live/548.m3u8" }
       ],
       "autoPlayBackup": true
     },
@@ -171,7 +171,7 @@
       "logo": "https://i.postimg.cc/4NbZZBqB/Disney-Channel.png",
       "group": "Kids",
       "tabs": [
-        { "name": "Main Stream", "url": "http://223.25.71.211:5001/live/auto/3321.m3u8" }
+        { "name": "Main Stream", "url": "https://ziboplay134rd.marvel.bio/live/3321.m3u8" }
       ],
       "autoPlayBackup": true
     },
@@ -198,7 +198,7 @@
       "logo": "https://i.postimg.cc/1tpp9Py5/CARTOON-NETWORK.png",
       "group": "Kids",
       "tabs": [
-        { "name": "Main Stream", "url": "http://223.25.71.211:5001/live/auto/816.m3u8" }
+        { "name": "Main Stream", "url": "https://ziboplay134rd.marvel.bio/live/816.m3u8" }
       ],
       "autoPlayBackup": true
     },
@@ -207,7 +207,7 @@
       "logo": "https://i.postimg.cc/85W94CVz/Discovery-Kids-Hin1.png",
       "group": "Kids",
       "tabs": [
-        { "name": "Main Stream", "url": "http://223.25.71.211:5001/live/auto/554.m3u8" }
+        { "name": "Main Stream", "url": "https://ziboplay134rd.marvel.bio/live/554.m3u8" }
       ],
       "autoPlayBackup": true
     },
@@ -216,8 +216,8 @@
       "logo": "https://i.postimg.cc/XN8BHttW/DISCOVERY-HD.png",
       "group": "Documentary",
       "tabs": [
-        { "name": "Stream bangla", "url": "http://223.25.71.211:5001/live/auto/573.m3u8" },
-        { "name": "Stream Hindi",       "url": "http://223.25.71.211:5001/live/auto/575.m3u8" }
+        { "name": "Stream bangla", "url": "https://ziboplay134rd.marvel.bio/live/573.m3u8" },
+        { "name": "Stream Hindi",       "url": "https://ziboplay134rd.marvel.bio/live/575.m3u8" }
       ],
       "autoPlayBackup": true
     },
@@ -235,7 +235,7 @@
       "logo": "https://i.postimg.cc/QNbK4vvh/ANIMAL-PLANET-HD.png",
       "group": "Documentary",
       "tabs": [
-        { "name": "Main Stream", "url": "http://223.25.71.211:5001/live/auto/566.m3u8" },
+        { "name": "Main Stream", "url": "https://ziboplay134rd.marvel.bio/live/566.m3u8" },
          { "name": "Stream 1",   "url": "http://rgkkw.live:8080/live/4dfoydR2gZ/clever3still/5249.ts" }
       ],
       "autoPlayBackup": true
@@ -263,7 +263,7 @@
       "logo": "https://i.postimg.cc/yxvJDS0v/TRAVEL-XP.png",
       "group": "Documentary",
       "tabs": [
-        { "name": "Main Stream", "url": "http://223.25.71.211:5001/live/auto/562.m3u8" },
+        { "name": "Main Stream", "url": "https://ziboplay134rd.marvel.bio/live/562.m3u8" },
          { "name": "Stream 1",   "url": "http://premiumtvs.space/live/YqXTywueEV/damp2purchase/20622.ts" }
       ],
       "autoPlayBackup": true
@@ -274,7 +274,7 @@
       "group": "Movies",
       "tabs": [
         { "name": "Main Stream", "url": "http://103.151.60.162:2122/play/a014/index.m3u8" },
-        { "name": "Stream 1", "url": "http://223.25.71.211:5001/live/auto/476.m3u8" },
+        { "name": "Stream 1", "url": "https://ziboplay134rd.marvel.bio/live/476.m3u8" },
         { "name": "Stream 2", "url": "https://drk6xq0vhn.gpcdn.net/live/max_hd_abr/index.m3u8" },
         { "name": "Stream 3", "url": "https://media.hmair.xyz/api/play/Sony%20MAX%20HD.m3u8" }
       ],
@@ -298,7 +298,7 @@
       "tabs": [
         { "name": "Main Stream", "url": "http://107.167.16.138/sonymax2/index.m3u8?token=test" },
         { "name": "Stream 1", "url": "https://drk6xq0vhn.gpcdn.net/live/max_2_abr/index.m3u8" },
-        { "name": "Stream 2", "url": "http://223.25.71.211:5001/live/auto/483.m3u8" }
+        { "name": "Stream 2", "url": "https://ziboplay134rd.marvel.bio/live/483.m3u8" }
       ],
       "autoPlayBackup": true
     },
@@ -308,7 +308,7 @@
       "group": "Movies",
       "tabs": [
         { "name": "Main Stream", "url": "" },
-        { "name": "Stream 1", "url": "http://223.25.71.211:5001/live/auto/762.m3u8" }
+        { "name": "Stream 1", "url": "https://ziboplay134rd.marvel.bio/live/762.m3u8" }
       ],
       "autoPlayBackup": true
     },
@@ -317,7 +317,7 @@
       "logo": "https://i.postimg.cc/25dXLKd7/Sony-WAH.png",
       "group": "Movies",
       "tabs": [
-        { "name": "Main Stream", "url": "http://223.25.71.211:5001/live/auto/1393.m3u8" }
+        { "name": "Main Stream", "url": "https://ziboplay134rd.marvel.bio/live/1393.m3u8" }
       ],
       "autoPlayBackup": true
     },
@@ -376,7 +376,7 @@
       "logo": "https://i.postimg.cc/d1j1Xw2k/Colors-Cineplex1.png",
       "group": "Movies",
       "tabs": [
-       { "name": "Main Stream", "url": "http://223.25.71.211:5001/live/auto/482.m3u8" },
+       { "name": "Main Stream", "url": "https://ziboplay134rd.marvel.bio/live/482.m3u8" },
        { "name": "Stream 1", "url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/ColorsCineplexUK.m3u8" }
       ],
       "autoPlayBackup": true
@@ -386,7 +386,7 @@
       "logo": "https://i.postimg.cc/ZqcZ4QSv/COLORS-CINEPLEX-HD.png",
       "group": "Movies",
       "tabs": [
-       { "name": "Main Stream", "url": "http://223.25.71.211:5001/live/auto/1477.m3u8" }
+       { "name": "Main Stream", "url": "https://ziboplay134rd.marvel.bio/live/1477.m3u8" }
 
       ],
       "autoPlayBackup": true
