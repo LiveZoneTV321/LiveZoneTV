@@ -264,7 +264,7 @@
       "tabs": [
         { "name": "Stream bangla", "url": "http://live.balajibroadband.com:3500/live/573.m3u8" },
         { "name": "Stream Hindi",       "url": "http://live.balajibroadband.com:3500/live/575.m3u8" },
-        { "name": "Stream 1",   "url": "https://drk6xq0vhn.gpcdn.net/live/discovery_sd_abr/index.m3u8" }
+        { "name": "Stream 1",   "url": "https://drk6xq0vhn.gpcdn.net/live/discovery_sd_abr/index.m3u8" },
         {"name": "Stream 2",   "url": "https://sm-monirul.xyz/@monirul_Islam_SM/stream.php?id=discovery_hd&e=.m3u8" }
       ],
       "autoPlayBackup": true
