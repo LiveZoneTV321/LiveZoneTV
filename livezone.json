@@ -88,7 +88,7 @@
       "logo": "https://i.postimg.cc/V6SkSfMM/ENTERR-10-BANGLA.png",
       "group": "indian Bangla",
       "tabs": [
-        { "name": "Main Stream", "url": "http://198.195.239.50:8095/enter10Bangla/index.m3u8" },
+        { "name": "Main Stream", "url": "https://mumt07.tangotv.in/zHjX9OFlENTERR10BANGLA/index.m3u8" },
         { "name": "Stream 1",    "url": "https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8" },
         { "name": "Stream 2",    "url": "https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8" },
          { "name": "Stream 3",    "url": "https://live-bangla.akamaized.net/liveabr/playlist.m3u8" }
@@ -96,7 +96,7 @@
       "autoPlayBackup": true
     },
     {
-      "name": "Jalsa Movies HD",
+      "name": "Jalsha Movies HD",
       "logo": "https://i.postimg.cc/G2ZhGWJ9/JALSHA-MOVIES-HD.png",
       "group": "indian Bangla",
       "tabs": [
@@ -330,7 +330,7 @@
       "logo": "https://i.postimg.cc/gkkzjmJG/SONY-PIX-HD.png",
       "group": "Movies",
       "tabs": [
-        { "name": "Main Stream", "url": "" },
+        { "name": "Main Stream", "url": "https://drk6xq0vhn.gpcdn.net/live/pix_hd_abr/live/sony_pix_hd_720/chunks.m3u8" },
         { "name": "Stream 1", "url": "https://ziboplay134rd.marvel.bio/live/762.m3u8" }
       ],
       "autoPlayBackup": true
