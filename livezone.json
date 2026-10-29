@@ -112,7 +112,7 @@
       "logo": "https://i.postimg.cc/MThKVCbH/COLORS-BANGLA-CINEMA.png",
       "group": "indian Bangla",
       "tabs": [
-        { "name": "Main Stream", "url": "http://live.balajibroadband.com:3500/live/697.m3u8" },
+        { "name": "Main Stream", "url": "http://live.balajibroadband.com:3500/live/1657.m3u8" },
         { "name": "Stream 1",    "url": "https://bitmovin-a.akamaihd.net/content/art-of-motion_drm/m3u8s/11331.m3u8" },
         { "name": "Stream 2",    "url": "http://103.114.11.37:8081/Colors-bangla-cinema/index.m3u8" }
       ],
