@@ -386,7 +386,7 @@
       "logo": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/studio-one.png",
       "group": "Movies",
       "tabs": [
-        { "name": "Main Stream", "url": "https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8" }
+        { "name": "Main Stream", "url": "https://cdn.pishow.tv/ott/live/276/master.m3u8" }
       ],
       "autoPlayBackup": true
     },
@@ -438,7 +438,7 @@
   "drmLicenseKey": "de8045e9f0fb4d03845dcc4a8bd7712a:6807bd09bda34ada83152908192af6d6",
   "tabs": [
     { "name": "Main Stream", "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd/default/index.mpd" },
-    { "name": "Stream 1", "url": "" }
+    { "name": "Stream 1", "url": "https://drk6xq0vhn.gpcdn.net/live/and_picture_hd_abr/index.m3u8" }
   ],
   "autoPlayBackup": true
 },
@@ -639,7 +639,7 @@
   "logo": "https://i.postimg.cc/DzDHjCJm/20240823_024249.png",
   "group": "Sports",
   "tabs": [
-    { "name": "Main Stream", "url": "https://flussonic.defineatoz.com/Starsports1/tracks-v1a1/mono.m3u8" }
+    { "name": "Main Stream", "url": "http://103.114.11.37:8081/Star-sports-1/index.m3u8?token=sboxcast" }
   ],
   "autoPlayBackup": true
 },
@@ -657,7 +657,8 @@
   "logo": "https://i.postimg.cc/ZnzgZCLS/20240823_024321.png",
   "group": "Sports",
   "tabs": [
-    { "name": "Main Stream", "url": "https://flussonic.defineatoz.com/starsportsselect1/tracks-v1/mono.m3u8" }
+    { "name": "Main Stream", "url": "https://flussonic.defineatoz.com/starsportsselect1/tracks-v1/mono.m3u8" },
+     { "name": "Stream 1", "url": "http://103.114.11.37:8081/Star-select-1/index.m3u8?token=sboxcast" }
   ],
   "autoPlayBackup": true
 },
@@ -666,7 +667,8 @@
   "logo": "https://i.postimg.cc/rmczbb8g/20240825_060019.png",
   "group": "Sports",
   "tabs": [
-    { "name": "Main Stream", "url": "https://flussonic.defineatoz.com/starsportsselect2sw/tracks-v1a1/mono.m3u8" }
+    { "name": "Main Stream", "url": "https://flussonic.defineatoz.com/starsportsselect2sw/tracks-v1a1/mono.m3u8" },
+    { "name": "Stream 1", "url": "http://103.114.11.37:8081/Star-select-2/index.m3u8?token=sboxcast" }
   ],
   "autoPlayBackup": true
 },
