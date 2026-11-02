@@ -442,12 +442,21 @@
   ],
   "autoPlayBackup": true
 },
-    {
+  {
       "name": "star Gold HD",
       "logo": "https://i.postimg.cc/Dyyv0nZF/STAR-GOLD-HD.png",
       "group": "Movies",
       "tabs": [
         { "name": "Main Stream", "url": "http://steveit4.net:80/live/3D458C361A77/80DD123017CE/1020175.ts.m3u8" }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "Star Gold Thrills",
+      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Thrills.png",
+      "group": "Movies",
+      "tabs": [
+        { "name": "Main Stream", "url": "https://sm-monirul.xyz/ultra/live.php?id=star_gold_tri&sm=.m3u8" }
       ],
       "autoPlayBackup": true
     },
