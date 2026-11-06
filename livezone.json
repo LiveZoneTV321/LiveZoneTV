@@ -81,9 +81,9 @@
       "logo": "https://i.postimg.cc/ZR959b36/SONY-AATH.jpg",
       "group": "indian Bangla",
       "tabs": [
-        { "name": "Main Stream", "url": "http://live.balajibroadband.com:3500/live/697.m3u8" },
-        { "name": "Stream 1",  "url": "https://stream.ottplus.live/live/sony_aath_abr/index.m3u8" },
-        { "name": "Stream 2",  "url": "https://drk6xq0vhn.gpcdn.net/live/sony_aath_abr/index.m3u8" }
+        { "name": "Main Stream", "url": "https://stream.ottplus.live/live/sony_aath_abr/index.m3u8" },
+        { "name": "Stream 1",  "url": "https://drk6xq0vhn.gpcdn.net/live/sony_aath_abr/index.m3u8" },
+        { "name": "Stream 2",  "url": "http://live.balajibroadband.com:3500/live/697.m3u8" }
       ],
       "autoPlayBackup": true
     },
@@ -150,7 +150,7 @@
       "logo": "https://i.postimg.cc/KzXPS4hR/SONY-YAY.png",
       "group": "Kids",
       "tabs": [
-        { "name": "Main Stream", "url": "https://stream.ottplus.live/live/sony_yay_abr/live/sony_yay_720/chunks.m3u8" },
+        { "name": "Main Stream", "url": "http://filex.me:8080/live/03098001921RDB/03098001921RDB/911302.m3u8" },
         { "name": "Stream 1",   "url": "https://drk6xq0vhn.gpcdn.net/live/sony_yay_abr/index.m3u8" }
       ],
       "autoPlayBackup": true
@@ -160,8 +160,9 @@
       "logo": "https://i.postimg.cc/Jnbb1mRR/NICK.png",
       "group": "Kids",
       "tabs": [
-        { "name": "Stream BD", "url": "http://live.balajibroadband.com:3500/live/1341.m3u8" },
-        { "name": "Stream HIN", "url": "http://live.balajibroadband.com:3500/live/545.m3u8" }
+        { "name": "Stream BD", "url": "http://103.135.253.32:8080/NICK/index.m3u8" },
+        { "name": "Stream 1", "url": "http://live.balajibroadband.com:3500/live/1341.m3u8" },
+        { "name": "Stream 2", "url": "http://live.balajibroadband.com:3500/live/545.m3u8" }
       ],
       "autoPlayBackup": true
     },
@@ -236,9 +237,10 @@
       "logo": "https://i.postimg.cc/1tpp9Py5/CARTOON-NETWORK.png",
       "group": "Kids",
       "tabs": [
-        { "name": "Main Stream", "url": "http://live.balajibroadband.com:3500/live/816.m3u8" },
         { "name": "Stream BD", "url": "https://drk6xq0vhn.gpcdn.net/live/cn_hd_abr/index.m3u8" },
-        { "name": "Stream HIN", "url": "https://drk6xq0vhn.gpcdn.net/live/cn_sd_abr/index.m3u8" }
+        { "name": "Stream HIN", "url": "https://drk6xq0vhn.gpcdn.net/live/cn_sd_abr/index.m3u8" },     
+        { "name": "Stream 1", "url": "http://live.balajibroadband.com:3500/live/816.m3u8" }
+
       ],
       "autoPlayBackup": true
     },
@@ -247,8 +249,8 @@
       "logo": "https://i.postimg.cc/85W94CVz/Discovery-Kids-Hin1.png",
       "group": "Kids",
       "tabs": [
-        { "name": "Main Stream", "url": "http://live.balajibroadband.com:3500/live/554.m3u8" },
-        { "name": "Stream 1", "url": "https://stream.ottplus.live/live/discovery_kids_abr/index.m3u8" }
+        { "name": "Main Stream", "url": "https://stream.ottplus.live/live/discovery_kids_abr/index.m3u8" },
+        { "name": "Stream 1", "url": "http://live.balajibroadband.com:3500/live/554.m3u8" }
       ],
       "autoPlayBackup": true
     },
@@ -266,10 +268,10 @@
       "logo": "https://i.postimg.cc/XN8BHttW/DISCOVERY-HD.png",
       "group": "Documentary",
       "tabs": [
+        { "name": "Main Stream",   "url": "https://drk6xq0vhn.gpcdn.net/live/discovery_sd_abr/index.m3u8" },
         { "name": "Stream bangla", "url": "http://live.balajibroadband.com:3500/live/573.m3u8" },
         { "name": "Stream Hindi",       "url": "http://live.balajibroadband.com:3500/live/575.m3u8" },
-        { "name": "Stream 1",   "url": "https://drk6xq0vhn.gpcdn.net/live/discovery_sd_abr/index.m3u8" },
-        {"name": "Stream 2",   "url": "https://sm-monirul.xyz/@monirul_Islam_SM/stream.php?id=discovery_hd&e=.m3u8" }
+        {"name": "Stream 1",   "url": "https://sm-monirul.xyz/@monirul_Islam_SM/stream.php?id=discovery_hd&e=.m3u8" }
       ],
       "autoPlayBackup": true
     },
@@ -287,10 +289,10 @@
       "logo": "https://i.postimg.cc/QNbK4vvh/ANIMAL-PLANET-HD.png",
       "group": "Documentary",
       "tabs": [
-        { "name": "Main Stream", "url": "http://live.balajibroadband.com:3500/live/566.m3u8" },
         { "name": "Stream 1",   "url": "https://drk6xq0vhn.gpcdn.net/live/animal_planet_sd_abr/index.m3u8" },
         { "name": "Stream 2",   "url": "https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd_abr/index.m3u8" },
-         { "name": "Stream 3",   "url": "http://rgkkw.live:8080/live/4dfoydR2gZ/clever3still/5249.ts" }
+         { "name": "Stream 3",   "url": "http://rgkkw.live:8080/live/4dfoydR2gZ/clever3still/5249.ts" },
+        { "name": "Stream 4", "url": "http://live.balajibroadband.com:3500/live/566.m3u8" }
       ],
       "autoPlayBackup": true
     },
@@ -351,9 +353,9 @@
       "logo": "https://i.imgur.com/gqUYk6C.png",
       "group": "Movies",
       "tabs": [
-        { "name": "Main Stream", "url": "http://live.balajibroadband.com:3500/live/483.m3u8" },
+        { "name": "Main Stream", "url": "https://drk6xq0vhn.gpcdn.net/live/max_2_abr/index.m3u8" },
         { "name": "Stream 1", "url": "http://107.167.16.138/sonymax2/index.m3u8?token=test" },
-        { "name": "Stream 2", "url": "https://drk6xq0vhn.gpcdn.net/live/max_2_abr/index.m3u8" }
+        { "name": "Stream 2", "url": "http://live.balajibroadband.com:3500/live/483.m3u8" }
       ],
       "autoPlayBackup": true
     },
@@ -362,8 +364,9 @@
       "logo": "https://i.postimg.cc/gkkzjmJG/SONY-PIX-HD.png",
       "group": "Movies",
       "tabs": [
-        { "name": "Main Stream", "url": "http://live.balajibroadband.com:3500/live/762.m3u8" },
-        { "name": "Stream 1", "url": "https://drk6xq0vhn.gpcdn.net/live/pix_hd_abr/live/sony_pix_hd_720/chunks.m3u8" }
+        { "name": "Main Stream", "url": "http://filex.me:8080/live/03098001921RDB/03098001921RDB/911301.m3u8" },
+        { "name": "Stream 1", "url": "https://drk6xq0vhn.gpcdn.net/live/pix_hd_abr/live/sony_pix_hd_720/chunks.m3u8" },
+        { "name": "Stream 2",   "url": "http://live.balajibroadband.com:3500/live/762.m3u8" }
       ],
       "autoPlayBackup": true
     },
@@ -478,8 +481,8 @@
       "logo": "https://i.postimg.cc/d1j1Xw2k/Colors-Cineplex1.png",
       "group": "Movies",
       "tabs": [
-       { "name": "Main Stream", "url": "http://live.balajibroadband.com:3500/live/482.m3u8" },
-       { "name": "Stream 1", "url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/ColorsCineplexUK.m3u8" }
+       { "name": "Main Stream ", "url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/ColorsCineplexUK.m3u8" },
+       { "name": "Stream 1", "url": "http://live.balajibroadband.com:3500/live/482.m3u8" }
       ],
       "autoPlayBackup": true
     },
