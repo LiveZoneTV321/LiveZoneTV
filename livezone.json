@@ -51,8 +51,7 @@
       "logo": "https://mir-s3-cdn-cf.behance.net/projects/404/83533e226955217.Y3JvcCw2MTMsNDc5LDM5MywxNTM.png",
       "group": "indian Bangla",
       "tabs": [
-        { "name": "Main Stream", "url": "https://limon-iptv-pro.limon20202.workers.dev/bigg-boss-24x7.m3u8" },
-        { "name": "Stream 1",    "url": "http://filex.me:8080/live/omer123/002773/2093170.m3u8" }
+        { "name": "Main Stream", "url": "http://filex.me:8080/live/omer123/002773/2093170.m3u8" }
       ],
       "autoPlayBackup": true
     },
@@ -61,7 +60,8 @@
       "logo": "https://mir-s3-cdn-cf.behance.net/projects/404/83533e226955217.Y3JvcCw2MTMsNDc5LDM5MywxNTM.png",
       "group": "indian Bangla",
       "tabs": [
-        { "name": "Main Stream", "url": "http://filex.me:8080/live/omer123/002773/2093154.m3u8" }
+        { "name": "Main Stream", "url": "https://limon-iptv-pro.limon20202.workers.dev/bigg-boss-24x7.m3u8" },
+        { "name": "Stream 1",    "url": "http://filex.me:8080/live/omer123/002773/2093154.m3u8" }
       ],
       "autoPlayBackup": true
     },
