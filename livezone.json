@@ -116,8 +116,8 @@
       "logo": "https://i.postimg.cc/MThKVCbH/COLORS-BANGLA-CINEMA.png",
       "group": "indian Bangla",
       "tabs": [
-        { "name": "Main Stream", "url": "https://livetv.shamon-cable.net:8443/Colors-bangla-cinema/index.m3u8" },
-        { "name": "Stream 1",    "url": "http://live.balajibroadband.com:3500/live/1657.m3u8" },
+        { "name": "Main Stream", "url": "http://live.balajibroadband.com:3500/live/1657.m3u8" },
+        { "name": "Stream 1",    "url": "https://livetv.shamon-cable.net:8443/Colors-bangla-cinema/index.m3u8" },
         { "name": "Stream 2",    "url": "http://103.135.253.32:8080/COLORS-BANGLA-CINEMA/index.m3u8" }
       ],
       "autoPlayBackup": true
@@ -331,8 +331,8 @@
       "logo": "https://i.postimg.cc/KvqZgwkc/SONY-MAX-HD.png",
       "group": "Movies",
       "tabs": [
-        { "name": "Main Stream", "url": "http://103.135.253.32:8080/Sony-Max-HD/index.m3u8" },
-        { "name": "Stream 1", "url": "http://live.balajibroadband.com:3500/live/476.m3u8" },
+        { "name": "Main Stream", "url": "http://live.balajibroadband.com:3500/live/476.m3u8" },
+        { "name": "Stream 1", "url": "http://103.135.253.32:8080/Sony-Max-HD/index.m3u8" },
         { "name": "Stream 2", "url": "http://filex.me:8080/live/03098001921RDB/03098001921RDB/911316.m3u8" },
         { "name": "Stream 3", "url": "https://drk6xq0vhn.gpcdn.net/live/max_hd_abr/index.m3u8" }
       ],
