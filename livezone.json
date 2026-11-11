@@ -331,22 +331,36 @@
       "logo": "https://i.postimg.cc/KvqZgwkc/SONY-MAX-HD.png",
       "group": "Movies",
       "tabs": [
-        { "name": "Main Stream", "url": "http://live.balajibroadband.com:3500/live/476.m3u8" },
-        { "name": "Stream 1", "url": "http://103.135.253.32:8080/Sony-Max-HD/index.m3u8" },
+        { "name": "Main Stream", "url": "https://techandeat.online/sliv/stream.m3u8?id=1000009247" },
+        { "name": "Stream 1", "url": "http://live.balajibroadband.com:3500/live/476.m3u8" },
         { "name": "Stream 2", "url": "http://filex.me:8080/live/03098001921RDB/03098001921RDB/911316.m3u8" },
         { "name": "Stream 3", "url": "https://drk6xq0vhn.gpcdn.net/live/max_hd_abr/index.m3u8" }
       ],
-      "autoPlayBackup": true
+      "autoPlayBackup": true,
+      "referer": "https://techandeat.online"
     },
     {
       "name": "Sony Max",
       "logo": "https://assets-prod.services.toffeelive.com/Ay52-JQBv9knK3AHFDWt/posters/00afb30b-3c19-4c4c-abd8-891db94e4767.webp",
       "group": "Movies",
       "tabs": [
-        { "name": "Main Stream", "url": "" },
+        { "name": "Main Stream", "url": "https://techandeat.online/sliv/stream.m3u8?id=1000009249" },
         { "name": "Stream 1", "url": "https://drk6xq0vhn.gpcdn.net/live/max_hd_abr/index.m3u8" },
         { "name": "Stream 2", "url": "https://drk6xq0vhn.gpcdn.net/live/max_hd_abr/live/max_hd_720/chunks.m3u8" },
         { "name": "Stream 2", "url": "https://drk6xq0vhn.gpcdn.net/live/sony_max_sd_abr/index.m3u8" },
+      ],
+      "autoPlayBackup": true,
+      "referer": "https://techandeat.online"
+    },
+    {
+      "name": "Sony Max 1",
+      "logo": "https://i.postimg.cc/251DGH5w/20260930-231736.png",
+      "group": "Movies",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "http://live.balajibroadband.com:3500/live/3418.m3u8"
+        }
       ],
       "autoPlayBackup": true
     },
@@ -355,11 +369,12 @@
       "logo": "https://i.imgur.com/gqUYk6C.png",
       "group": "Movies",
       "tabs": [
-        { "name": "Main Stream", "url": "https://drk6xq0vhn.gpcdn.net/live/max_2_abr/index.m3u8" },
+        { "name": "Main Stream", "url": "https://techandeat.online/sliv/stream.m3u8?id=1000044878" },
         { "name": "Stream 1", "url": "http://107.167.16.138/sonymax2/index.m3u8?token=test" },
         { "name": "Stream 2", "url": "http://live.balajibroadband.com:3500/live/483.m3u8" }
       ],
-      "autoPlayBackup": true
+      "autoPlayBackup": true,
+      "referer": "https://techandeat.online"
     },
     {
       "name": "Sony Pix HD",
@@ -377,9 +392,11 @@
       "logo": "https://i.postimg.cc/25dXLKd7/Sony-WAH.png",
       "group": "Movies",
       "tabs": [
-        { "name": "Main Stream", "url": "http://live.balajibroadband.com:3500/live/1393.m3u8" }
+        { "name": "Main Stream", "url": "https://techandeat.online/sliv/stream.m3u8?id=1000009253" },
+        { "name": "Stream 1", "url": "http://live.balajibroadband.com:3500/live/1393.m3u8" }
       ],
-      "autoPlayBackup": true
+      "autoPlayBackup": true,
+      "referer": "https://techandeat.online"
     },
      {
       "name": "South Station",
@@ -422,9 +439,9 @@
       "logo": "https://i.postimg.cc/rFFVsMpb/ZEE-CINEMA-HD.png",
       "group": "Movies",
       "tabs": [
-        { "name": "Main Stream", "url": "https://j6nfugukcl.gpcdn.net/tile_5/master.m3u8" },
+        { "name": "Main Stream", "url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeCinemaAPAC.m3u8" },
         { "name": "Stream 1", "url": "https://stream.ottplus.live/live/zee_cinema_hd_abr/index.m3u8" },
-       { "name": "Stream 2", "url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeCinemaAPAC.m3u8" },
+       { "name": "Stream 2", "url": "https://j6nfugukcl.gpcdn.net/tile_5/master.m3u8" },
         { "name": "Stream 3",   "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8" }
       ],
       "autoPlayBackup": true
@@ -457,6 +474,18 @@
       "group": "Movies",
       "tabs": [
         { "name": "Main Stream", "url": "https://livetv.shamon-cable.net:8443/StarGold/tracks-v1a1/mono.m3u8" }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "Star Gold Select",
+      "logo": "https://i.postimg.cc/4xdM5tT7/20260402-210758.png",
+      "group": "Movies",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "http://103.114.11.37:8081/StarGoldSelect/index.m3u8?token=sboxcast"
+        }
       ],
       "autoPlayBackup": true
     },
