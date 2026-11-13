@@ -21,7 +21,7 @@
       "drmType": "clearkey",
       "drmLicenseKey": "1df83e058b864da896c9288eef63b113:fc32f26239054b56aab48225305598fe",
       "tabs": [
-        { "name": "Main Stream", "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla/default/manifest.mpd" },
+        { "name": "Main Stream", "url": "https://d1rc86nwwc9fag.cloudfront.net/260723/smil:zeebangla.smil/chunklist_b896000.m3u8" },
         { "name": "Stream 1",       "url": "http://103.114.11.37:8081/ZEE-Bangla/index.m3u8?token=sboxcast" },
         { "name": "Stream 2",       "url": "https://tvsen6.aynaott.com/ZeeBangla/index.m3u8" },
         { "name": "Stream 3",       "url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBanglaHD.m3u8" },
@@ -463,7 +463,7 @@
   "drmType": "clearkey",
   "drmLicenseKey": "de8045e9f0fb4d03845dcc4a8bd7712a:6807bd09bda34ada83152908192af6d6",
   "tabs": [
-    { "name": "Main Stream", "url": "http://sm-monirul.top/@sm_iptv_bd/live.php?id=and_picturs_hd&file=tracks-v1a1%2Fmono.m3u8" },
+    { "name": "Main Stream", "url": "https://toffee.sm-monirul-islam-rs.workers.dev/pictures_hd/index.m3u8" },
     { "name": "Stream 1", "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd/default/index.mpd" }
   ],
   "autoPlayBackup": true
