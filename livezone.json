@@ -82,11 +82,12 @@
       "logo": "https://i.postimg.cc/ZR959b36/SONY-AATH.jpg",
       "group": "indian Bangla",
       "tabs": [
-        { "name": "Main Stream", "url": "https://stream.ottplus.live/live/sony_aath_abr/index.m3u8" },
+        { "name": "Main Stream", "url": "https://techandeat.online/sliv/stream.m3u8?id=1000009255" },
         { "name": "Stream 1",  "url": "https://drk6xq0vhn.gpcdn.net/live/sony_aath_abr/index.m3u8" },
         { "name": "Stream 2",  "url": "http://live.balajibroadband.com:3500/live/697.m3u8" }
       ],
-      "autoPlayBackup": true
+      "autoPlayBackup": true,
+      "referer": "https://techandeat.online"
     },
     {
       "name": "Enterr10 Bangla",
@@ -381,11 +382,12 @@
       "logo": "https://i.postimg.cc/gkkzjmJG/SONY-PIX-HD.png",
       "group": "Movies",
       "tabs": [
-        { "name": "Main Stream", "url": "http://live.balajibroadband.com:3500/live/762.m3u8" },
-        { "name": "Stream 1", "url": "http://filex.me:8080/live/03098001921RDB/03098001921RDB/911301.m3u8" },
-        { "name": "Stream 2",   "url": "https://drk6xq0vhn.gpcdn.net/live/pix_hd_abr/live/sony_pix_hd_720/chunks.m3u8" }
+        { "name": "Main Stream", "url": "https://techandeat.online/sliv/stream.m3u8?id=1000009258" },
+        { "name": "Stream 1", "url": "http://live.balajibroadband.com:3500/live/762.m3u8" },
+        { "name": "Stream 2",   "url": "http://filex.me:8080/live/03098001921RDB/03098001921RDB/911301.m3u8" }
       ],
-      "autoPlayBackup": true
+      "autoPlayBackup": true,
+      "referer": "https://techandeat.online"
     },
     {
       "name": "Sony-WAH",
@@ -494,7 +496,8 @@
       "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Thrills.png",
       "group": "Movies",
       "tabs": [
-        { "name": "Main Stream", "url": "http://filex.me:8080/live/03098001921RDB/03098001921RDB/911309.m3u8" }
+        { "name": "Main Stream", "url": "https://sm-monirul.top/ultra/live.php?id=star_gold_tri&sm=.m3u8" },
+        { "name": "Stream 1", "url": "http://filex.me:8080/live/03098001921RDB/03098001921RDB/911309.m3u8" }
       ],
       "autoPlayBackup": true
     },
